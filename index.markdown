@@ -96,7 +96,7 @@ It contains:
 
 </p>
 <a href="http://petitaideas.com/test/">See it in acction</a>
-Code: <a href="">Click hier</a>
+Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
 
