@@ -22,7 +22,15 @@ title: SimpleOS
 email: jaaaa@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-My Programming Jorney/ Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills. I'm a newbie in the programming world and I'm super excited to explore web development. I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, delving into MySQL to understand databases and data management, and using Jekyll to build static websites and blogs. In my learning journey, I'm tackling different projects, such as my personal website (built with Jekyll) to showcase my skills and achievements, a web app using JavaScript for specific tasks, and a project that leverages MySQL to handle data
+My Programming Jorney/ Hello! This page is all about my adventure into the world of programming. 
+I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and
+the cool projects I'm working on to level up my skills. 
+I'm a newbie in the programming world and I'm super excited to explore web development. 
+I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, 
+delving into MySQL to understand databases and data management, and using Jekyll to build 
+static websites and blogs. In my learning journey, I'm tackling different projects, such as 
+my personal website (built with Jekyll) to showcase my skills and achievements, a web app 
+using JavaScript for specific tasks, and a project that leverages MySQL to handle data.
 
 
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
