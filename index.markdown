@@ -68,10 +68,10 @@ li {
 
 <div class="divheader">   
 Angelus<br>
-Welcome to My Shit Page in Jekyll
+Welcome to SimpleOS
 </div>
 
-<div class="git_container"></div>
+<div class="git_container">asdsad</div>
 
 ## There are 2 ways to add code to HTML without JS:
 
