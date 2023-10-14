@@ -21,13 +21,33 @@
 title: SimpleOS
 email: jaaaa@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Learning Journey
+
+Welcome to my learning journey! This page is dedicated to my pursuit of knowledge and skills in various programming topics, including JavaScript, MySQL, Jekyll, and more. I'm using this space to document my progress, share my experiences, and showcase the projects I'm working on to enhance my programming skills.
+
+## About Me
+
+I'm an aspiring programmer eager to dive into the world of web development. My primary areas of focus are:
+
+- **JavaScript (JS)**: I'm exploring JavaScript to build interactive web applications and improve user experiences.
+- **MySQL**: I'm delving into database management with MySQL to better understand how data is stored and retrieved.
+- **Jekyll**: I'm using Jekyll to create static websites and blogs, learning the ins and outs of this powerful tool.
+
+## Projects
+
+As part of my learning journey, I'll be working on various programming projects. Some of the upcoming projects include:
+
+- A personal website built with Jekyll to showcase my skills and achievements.
+- A web app using JavaScript to perform a specific task.
+- A database-driven project with MySQL integration.
+
+Follow along as I learn, experiment, and grow as a programmer!
+
+
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mytwitter
+github_username:  Angnz
 
 # Build settings
 theme: minima
