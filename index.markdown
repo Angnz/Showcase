@@ -75,10 +75,11 @@ li {
 }
 </style>
 
-<div class="divheader">   
-Angelus<br>
-Welcome to SimpleOS
-</div>
+
+#Angelus
+##Welcome to SimpleOS Hier are some projects I am currently working on:
+-Peitaideas
+
 
 <div class="fenster">
 <p class="fenster-letters">Peitaideas Online Shop.<br> A simple shop in html, JS, and CSS</p>
