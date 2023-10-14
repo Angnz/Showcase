@@ -80,8 +80,13 @@ Welcome to SimpleOS
 </div>
 
 <div class="fenster">
-<p class="fenster-letters"></p>
+<p class="fenster-letters">Peitaideas Online Shop in JS</p>
+<p>A simple shop in html, JS, and CSS</p>
+it contains:
+-Shop Chart
+--Alhabetical order of products
 
+link: petitaideas.com/test
 </div>
 
 ## There are 2 ways to add code to HTML without JS:
