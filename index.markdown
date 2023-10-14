@@ -109,9 +109,9 @@ Code: <a href="">Click hier</a>
 ## In Kekyll
 
 ```
-"```"
+
 your code
-"```"
+
 ```
 
 <div class="messagebox">
