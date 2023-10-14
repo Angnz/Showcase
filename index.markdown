@@ -81,13 +81,14 @@ Welcome to SimpleOS
 </div>
 
 <div class="fenster">
-<p class="fenster-letters">Peitaideas Online Shop in JS</p>
-<p>A simple shop in html, JS, and CSS</p>
+<p class="fenster-letters">Peitaideas Online Shop.<br> A simple shop in html, JS, and CSS</p>
+<p>
 it contains:
 -Shop Chart
 --Alhabetical order of products
-
-link: petitaideas.com/test
+</p>
+<a href="http://petitaideas.com/test/"></a>
+Code: <a href="_PI">Click hier</a>
 </div>
 
 ## There are 2 ways to add code to HTML without JS:
