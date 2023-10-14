@@ -20,12 +20,20 @@ body {
     padding: 20px;
 }
 
-.git_container {
+.fenster {
+
+    background-color: #F5F5DC; /* Color azul crema */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 5px 5px 5px #888;
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
 }
 
+fenster-letters{
+
+    color:#333;
+}
 button {
     background-color: #0074d9;
     color: #fff;
@@ -71,7 +79,10 @@ Angelus<br>
 Welcome to SimpleOS
 </div>
 
-<div class="git_container">asdsad</div>
+<div class="fenster">
+<p class="fenster-letters"></p>
+
+</div>
 
 ## There are 2 ways to add code to HTML without JS:
 
