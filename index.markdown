@@ -92,7 +92,8 @@ it contains:
 Code: <a href="_PI">Click hier</a>
 </div>
 
-[Link to the PI Page](/pi.md)
+[Link to the PI Page]({% link _pages/pi.md %})
+
 ## There are 2 ways to add code to HTML without JS:
 
 - `<pre>`
