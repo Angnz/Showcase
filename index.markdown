@@ -76,9 +76,9 @@ li {
 </style>
 
 
-#Angelus
-##Welcome to SimpleOS Hier are some projects I am currently working on:
--Peitaideas
+# Angelus
+## Welcome to SimpleOS Hier are some projects I am currently working on:
+- Peitaideas
 
 
 <div class="fenster">
