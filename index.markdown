@@ -68,7 +68,7 @@ li {
 
 
 # Angelus
-## Welcome to My Shit Page
+## Welcome to My Shit Page in Jekyll
 
 <div class="git_container"></div>
 
@@ -76,8 +76,17 @@ li {
 
 - `<pre>`
 - `<code>`
+## In Kekyll
 
-The example below will use code with some CSS for formatting, otherwise it looks like shit.
+```
+"```"
+your code
+"```"
+```
+
+<div class="messagebox">
+  The example below will use code with some CSS for formatting, otherwise it looks like shit.
+</div>
 
 ## Uploading to GitHub from VSCode using Git commands MTF's
 
@@ -95,7 +104,10 @@ The example below will use code with some CSS for formatting, otherwise it looks
 - Commit it: `git commit -m "Renamed old-file.html to new-file.html"`
 - Update it: `git push`
 
+
+<div class="messagebox">
 With these commands, you can easily rename files in your repo on GitHub.
+</div>
 
 Here's my stuff.
 <button id="btndemierda">A la mierda</button>
