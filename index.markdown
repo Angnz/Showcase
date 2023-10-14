@@ -82,7 +82,7 @@ li {
 
 
 <div class="fenster">
-<p class="fenster-letters">Peitaideas Online Shop.<br> A simple shop in html, JS, and CSS</p>
+<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><br> A simple shop in html, JS, and CSS</p>
 <p>
 it contains:
 -Shop Chart
