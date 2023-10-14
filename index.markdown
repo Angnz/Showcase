@@ -20,7 +20,7 @@ body {
     padding: 20px;
 }
 
-.container {
+.git_container {
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
@@ -70,6 +70,7 @@ li {
 Angelus<br>
 Welcome to My Shit Page in Jekyll
 </div>
+
 <div class="git_container"></div>
 
 ## There are 2 ways to add code to HTML without JS:
