@@ -101,7 +101,7 @@ Code: <a href="https://angnz.github.io/SimpleOS/contact/">Contact</a>
 </div>
 
 
-[Link to the PI Page](simpleos/pi/)
+[Link to the PI Page](SimpleOS/pi/)
 
 ## There are 2 ways to add code to HTML without JS:
 
