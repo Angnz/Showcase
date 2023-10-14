@@ -13,7 +13,7 @@ body {
     padding: 1em;
 }
 
-header {
+.divheader {
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -66,10 +66,10 @@ li {
 }
 </style>
 
-
-# Angelus
-## Welcome to My Shit Page in Jekyll
-
+<div class="divheader">   
+Angelus<br>
+Welcome to My Shit Page in Jekyll
+</div>
 <div class="git_container"></div>
 
 ## There are 2 ways to add code to HTML without JS:
