@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PI
-permalink: /PI/
+permalink: /pi/
 ---
 
 # The Mathematical Constant PI (π)
