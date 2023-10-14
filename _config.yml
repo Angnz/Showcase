@@ -21,27 +21,23 @@
 title: SimpleOS
 email: jaaaa@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-# Learning Journey
 
-Welcome to my learning journey! This page is dedicated to my pursuit of knowledge and skills in various programming topics, including JavaScript, MySQL, Jekyll, and more. I'm using this space to document my progress, share my experiences, and showcase the projects I'm working on to enhance my programming skills.
+#My Programming Journey
+Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills.
 
-## About Me
+##About Me
+I'm a newbie in the programming world, and I'm super excited to explore web development. Here's what I'm focusing on:
 
-I'm an aspiring programmer eager to dive into the world of web development. My primary areas of focus are:
+JavaScript (JS): I'm playing around with JavaScript to create interactive web apps and make user experiences better.
+MySQL: I'm getting to know databases and how they store and retrieve data using MySQL.
+Jekyll: I'm using Jekyll to build static websites and blogs, and I'm learning the ropes.
+Projects
 
-- **JavaScript (JS)**: I'm exploring JavaScript to build interactive web applications and improve user experiences.
-- **MySQL**: I'm delving into database management with MySQL to better understand how data is stored and retrieved.
-- **Jekyll**: I'm using Jekyll to create static websites and blogs, learning the ins and outs of this powerful tool.
+In my learning journey, I'm tackling different projects, such as:
 
-## Projects
-
-As part of my learning journey, I'll be working on various programming projects. Some of the upcoming projects include:
-
-- A personal website built with Jekyll to showcase my skills and achievements.
-- A web app using JavaScript to perform a specific task.
-- A database-driven project with MySQL integration.
-
-Follow along as I learn, experiment, and grow as a programmer!
+My personal website, made with Jekyll, to show off my skills and achievements.
+A web app using JavaScript for a specific task.
+A project that uses MySQL to handle data.
 
 
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
