@@ -84,15 +84,22 @@ li {
 <div class="fenster">
 <p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><br> A simple shop in html, JS, and CSS</p>
 <p>
-it contains:
--Shop Chart
---Alhabetical order of products
+It contains:
+<ul>
+    <li>Shop Chart</li>
+    <li>Alhabetical order of products</li>
+    <li>Add to Chart button</li>
+    <li>Generate Products Segments</li>
+    <li>Summ and Substracts price</li>
+    <li>Personal Data form</li>
+</ul>
+
 </p>
 <a href="http://petitaideas.com/test/"></a>
 Code: <a href="_PI">Click hier</a>
 </div>
 
-[Link to the PI Page]({% link _pages/pi.md %})
+[Link to the PI Page]({{ site.baseurl }}/pi/)
 
 ## There are 2 ways to add code to HTML without JS:
 
