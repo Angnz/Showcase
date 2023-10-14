@@ -5,10 +5,68 @@
 layout: home
 ---
 
----
-layout: default
-title: Angelus
----
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 2em;
+    padding: 1em;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    overflow-x: auto;
+}
+
+li {
+    line-height: 3em;
+}
+
+.messagebox {
+    font-size: 1em;
+    background-color: gray;
+    color: #f0f0f0;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    margin-left: 2em;
+}
+
+.messagebox::before {
+    content: "\2192";
+    margin-right: 10px;
+}
+</style>
+
 
 # Angelus
 ## Welcome to My Shit Page
@@ -42,3 +100,10 @@ With these commands, you can easily rename files in your repo on GitHub.
 
 Here's my stuff.
 <button id="btndemierda">A la mierda</button>
+
+
+<script>
+document.getElementById("btndemierda").addEventListener("click", function() {
+    alert("Me has clickeao, Tio"); 
+});
+</script>
