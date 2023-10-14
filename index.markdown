@@ -87,7 +87,7 @@ The example below will use code with some CSS for formatting, otherwise it looks
 - To add files to your repository: `$ git add Home.html` (Here, "Home.html" is an example)
 - To add a commit message: `$ git commit -m "I uploaded the first HTML page as Home"`
 
-Just learned how to upload stuff from VSCode to GitHub using Git commands.
+<div class="messagebox"> Just learned how to upload stuff from VSCode to GitHub using Git commands.</div>
 
 ## How to rename files using Git from VSCode
 
