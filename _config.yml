@@ -20,7 +20,7 @@
 
 title: SimpleOS
 email: myemail@example.com
-description: #>- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
 
 My Programming Journey
 Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills.
