@@ -99,7 +99,8 @@ It contains:
 Code: <a href="">Click hier</a>
 </div>
 
-[Link to the PI Page]({{ site.baseurl }}/pi/)
+
+[Link to the PI Page](/PI/)
 
 ## There are 2 ways to add code to HTML without JS:
 
