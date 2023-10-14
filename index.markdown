@@ -95,8 +95,8 @@ It contains:
 </ul>
 
 </p>
-<a href="http://petitaideas.com/test/"></a>
-Code: <a href="_PI">Click hier</a>
+<a href="http://petitaideas.com/test/">See it in acction</a>
+Code: <a href="">Click hier</a>
 </div>
 
 [Link to the PI Page]({{ site.baseurl }}/pi/)
