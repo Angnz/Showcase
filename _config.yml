@@ -19,26 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SimpleOS
-email: myemail@example.com
-description:  
-My Programming Journey
-Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills.
+email: jaaaa@example.com
+description: >- # this means to ignore newlines until "baseurl:"
 
-About Me
-I'm a newbie in the programming world, and I'm super excited to explore web development. Here's what I'm focusing on:
-
-JavaScript (JS): I'm playing around with JavaScript to create interactive web apps and make user experiences better.
-MySQL: I'm getting to know databases and how they store and retrieve data using MySQL.
-Jekyll: I'm using Jekyll to build static websites and blogs, and I'm learning the ropes.
-Projects
-
-In my learning journey, I'm tackling different projects, such as:
-
-My personal website, made with Jekyll, to show off my skills and achievements.
-A web app using JavaScript for a specific task.
-A project that uses MySQL to handle data.
-
-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mytwitter
