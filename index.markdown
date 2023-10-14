@@ -5,59 +5,40 @@
 layout: home
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/Style.css">
-    <script src="/JSscripts.js"></script>
-    <title>Angelus</title>
-   </head>
-<body>
+---
+layout: default
+title: Angelus
+---
 
-    <header>
-        <h1>Angelus <br>Welcome to My shit Page</h1>
-    </header>
+# Angelus
+## Welcome to My Shit Page
 
-   
-    <div class="git_container"></div>
+<div class="git_container"></div>
 
-        <h2>There is 2 ways how to add Codes into HTML without JS.</h2> 
-        <ul>
-            <li><code> pre </code></li>
-            <li><code> code </code></li>        
-        </ul>
+## There are 2 ways to add code to HTML without JS:
 
-        <p class="messagebox">The Example Below will be use with code with some CSS for formatting, otherwise it looks like shit.</p>
+- `<pre>`
+- `<code>`
 
-        <h2>Uploading to GitHub from VSCode using Git commands MTF's</h2>
-        <ul>
-            <li>To check if the server is connected, use: <code>$ git config --global --list</code></li>
-            <li>To update: <code>$ git push</code></li>
-            <li>To initialize a repository: <code>$ git init</code></li>
-            <li>To add files to your repository: <code>$ git add Home.html</code> (Here, "Home.html" is an example)</li>
-            <li>To add a commit message: <code>$ git commit -m "I uploaded the first HTML page as Home"</code></li>
-        </ul>
+The example below will use code with some CSS for formatting, otherwise it looks like shit.
 
-        <p class="messagebox">Just learned how to upload stuff from VSCode to GitHub using Git commands.</p>
-        
-        <h2>Hoe to rename files using Git from VSCode</h2>
-        
-        <ul>
-            <li>Rename a file: <code>git mv old-file.html new-file.html</code></li>
-            <li>Commit it: <code>git commit -m "Renamed old-file.html to new-file.html"</code></li>
-            <Li>update it: <code>git push</code></Li>
-        </ul>
+## Uploading to GitHub from VSCode using Git commands MTF's
 
-        <p class="messagebox">With this commands you can easily rename files in your Rep in GitHub</p>
+- To check if the server is connected, use: `$ git config --global --list`
+- To update: `$ git push`
+- To initialize a repository: `$ git init`
+- To add files to your repository: `$ git add Home.html` (Here, "Home.html" is an example)
+- To add a commit message: `$ git commit -m "I uploaded the first HTML page as Home"`
 
-        <p>Here's my stuff.</p>
-        <button id="btndemierda">a la mierda</button>
+Just learned how to upload stuff from VSCode to GitHub using Git commands.
 
-    </div>
+## How to rename files using Git from VSCode
 
-</body>
-</html>
+- Rename a file: `git mv old-file.html new-file.html`
+- Commit it: `git commit -m "Renamed old-file.html to new-file.html"`
+- Update it: `git push`
 
- 
+With these commands, you can easily rename files in your repo on GitHub.
+
+Here's my stuff.
+<button id="btndemierda">A la mierda</button>
