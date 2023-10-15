@@ -134,7 +134,7 @@ It's an ambitious journey but I'm resolute in my quest to unravel this technolog
 
 <div class="fenster">
 <p class="fenster-letters"><h2>Simple Product showcase</h2>
-<hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
+<hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
 
 <div class="console">
     <ul>
@@ -144,6 +144,7 @@ It's an ambitious journey but I'm resolute in my quest to unravel this technolog
         <li>Generate Products Segments</li>
         <li>Summ and Substracts price</li>
         <li>Personal Data form</li>
+        <li>Send quotation ny email</li>
     </ul>
 </div>
 
