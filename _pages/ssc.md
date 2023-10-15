@@ -14,7 +14,8 @@ Explain Skeleton
 
 ```
 
-##PHP
+## PHP
+Explanation PHP
 
 ```
 /*My Code for online shop - To add in functions.php in wordpress*/
@@ -885,4 +886,5 @@ btnAgregar.addEventListener('click', () => {
 
 
 ```
-[DOwnload the files: ](https://github.com/Angnz/PI_OS.git)https://github.com/Angnz/PI_OS.git
+[Download the files hier](https://github.com/Angnz/PI_OS.git)
+Angelus
