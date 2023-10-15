@@ -123,7 +123,7 @@ li {
 </style>
 
 
-# Greetings people from the future, 
+# Greetings, 
 
 I'm Angelus, an intellectually challenged chimp with an alien parasite inside me. To survive, 
 I must learn coding to transfer my consciousness into a tech-bio entity.
