@@ -20,25 +20,36 @@
 
 title: SimpleOS
 email: jaaaa@example.com
-description: "My Programming Jorney/ Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills. I'm a newbie in the programming world and I'm super excited to explore web development. I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, delving into MySQL to understand databases and data management, and using Jekyll to build static websites and blogs. In my learning journey, I'm tackling different projects, such as my personal website (built with Jekyll) to showcase my skills and achievements, a web app using JavaScript for specific tasks, and a project that leverages MySQL to handle data."
-
-
+description: "My Programming Journey/ Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills. I'm a newbie in the programming world and I'm super excited to explore web development. I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, delving into MySQL to understand databases and data management, and using Jekyll to build static websites and blogs. In my learning journey, I'm tackling different projects, such as my personal website (built with Jekyll) to showcase my skills and achievements, a web app using JavaScript for specific tasks, and a project that leverages MySQL to handle data."
 
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mytwitter
-github_username:  Angnz
+github_username: Angnz
 
-- name: Install Bundler dependencies
-  run: bundle install
 # Build settings
- theme: Minimal
-plugins: 
+theme: minimal
+plugins:
   - jekyll-feed
 include:
   - _pages
   - _layout
   - _data
+
+# Install required gems
+install:
+  steps:
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7.2
+
+    - name: Install Bundler
+      run: gem install bundler
+    - name: Install Jekyll
+      run: gem install jekyll
+    - name: Install required gems
+      run: bundle install
 
 # Exclude from processing.
 # The following items will not be processed, by default.
