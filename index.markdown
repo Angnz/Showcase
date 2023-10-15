@@ -8,7 +8,7 @@ layout: home
 <style>
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #4D4C7D;
     margin: 2em;
     padding: 1em;
 }
