@@ -80,6 +80,8 @@ fenster-letters{
     padding: 10px;
     font-family: 'Courier New', monospace;
     border: 1px solid #00ff00;
+    line-height: 1;
+
 }
 
 button {
