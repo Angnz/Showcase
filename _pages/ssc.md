@@ -1,5 +1,5 @@
 ---
-permalink: /pi/
+permalink: /ssc/
 layout: default
 title: Simple showcase
 ---
