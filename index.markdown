@@ -148,7 +148,7 @@ It's an ambitious journey but I'm resolute in my quest to unravel this technolog
 </div>
 
 See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
-Code: <a href="https://angnz.github.io/SimpleOS/ssc/">Click hier</a>
+Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
 
