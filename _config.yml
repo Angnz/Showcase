@@ -31,10 +31,10 @@ github_username: Angnz
 theme: minima
 plugins:
   - jekyll-feed
-include:
-  - [_pages]
-  - [_layout]
-  - [_data]
+
+  include: [_pages]
+  include: [_layout]
+  include: [_data]
 
 
 
