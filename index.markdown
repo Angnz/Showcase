@@ -53,9 +53,9 @@ body {
 
 .fenster {
 
-    background-color: #F5F5DC; /* Color azul crema */
+    background-color: #4F709C; /* Color azul crema */
     border-radius: 5px; /* Bordes redondeados */
-    box-shadow: 5px 5px 5px #888;
+    box-shadow: 5px 5px 5px #E5D283;
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
