@@ -141,7 +141,7 @@ of programming languages and technologies.
     </div>
         <br>
         <a href="http://petitaideas.com/test/">See it in acctionr</a><br>
-        <a href="https://angnz.github.io/SimpleOS/pi/">Code</a>
+        <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
 </div>
 
 
