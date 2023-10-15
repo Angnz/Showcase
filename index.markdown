@@ -33,7 +33,7 @@ body {
 
 .site-nav .page-link{
     font-family: 'Courier New', Courier, monospace;
-    color: #FDF0F0;
+    color: #F99417;
     line-height: 1.5;
 }
 
