@@ -31,7 +31,7 @@ body {
     text-decoration: none;
 }
 
-.site-nav{
+.site-nav a{
     font-family: 'Courier New', Courier, monospace;
     color: #FDF0F0;
     line-height: 1.5;
