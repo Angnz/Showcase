@@ -27,6 +27,10 @@ body {
     color: #F99417;
 }
 
+.site-title:hover {
+    text-decoration: none;
+}
+
 .divheader {
     background-color: #333;
     color: #fff;
