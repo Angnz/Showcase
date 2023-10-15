@@ -65,7 +65,6 @@ a:visited {
     border-radius: 5px; /* Bordes redondeados */
     box-shadow: 5px 5px 5px #E5D283;
     max-width: 960px;
-    margin: 0 auto;
     padding: 20px;
     margin-top: 1em;
     margin-bottom: 1em;
