@@ -124,12 +124,11 @@ li {
 
 
 # Greetings people from the future, 
-I'm Angelus, a stupid non-logical chimp, and my life has taken a unique turn. 
+I'm Angelus, an "intellectually challenged" chimp. My life has taken a unique turn. 
 You see, there's an alien parasite inside me, slowly consuming me from within. 
 To save myself, I must master coding, a skill I'm far from adept at. With this knowledge, I aim to facilitate 
 a cranial transfer into a sophisticated tech-bio entity through neuro-enhanced communication interfaces.
-It's an ambitious journey for an "intellectually challenged" chimp like me, but I'm resolute in my quest to unravel 
-this technological enigma and save myself from my extraterrestrial guest.
+It's an ambitious journey but I'm resolute in my quest to unravel this technological enigma and save myself from my intergalactic guest.
 
 ## Projects
 
