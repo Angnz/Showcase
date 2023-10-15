@@ -131,7 +131,18 @@ I'm Angelus, an intellectually challenged chimp with an alien parasite inside me
 I must learn coding to transfer my consciousness into a tech-bio entity.
 I'm determined to save myself from this cosmic invader.
 
-I intend to use this page as a resource for learning coding, with a goal to perfect my skills in HTML, CSS, JavaScript, PHP, ASP.NET, Python, Java, Ruby, SQL, XML, and R. This page will serve as my gateway to mastering a wide range of programming languages and technologies.
+I intend to use this page as a resource for learning coding, with a goal to perfect my skills in HTML, CSS, 
+JavaScript, PHP, ASP.NET, Python, Java, Ruby, SQL, XML, and R. This page will serve as my gateway to mastering a wide range 
+of programming languages and technologies.
+
+<div class="console">
+    Difficulty and logical challenge rating
+    <ul>
+        <li>lvl 1: Monkey</li>
+        <li>lvl 2: Bob</li>
+        <li>lvl 3: Prometheus</li>
+    </ul>
+    </div>
 
 ## Projects
 
@@ -140,7 +151,6 @@ I intend to use this page as a resource for learning coding, with a goal to perf
 <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
 
 <div class="console">
-    
 <ul>
   <li>Shop Cart</li>
   <li>Alphabetical Order of Products</li>
@@ -158,14 +168,6 @@ Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
 
-<div class="console">
-Difficulty and logical challenge rating
-<ul>
-    <li>lvl 1: Monkey</li>
-    <li>lvl 2: Bob</li>
-    <li>lvl 3: Prometheus</li>
-</ul>
-    
-</div>
+
 
 [Chek how did I create this page](Jekyll/)
