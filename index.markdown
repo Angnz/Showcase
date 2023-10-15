@@ -138,15 +138,17 @@ It's a challenging journey, but I'm determined to save myself from this cosmic i
 <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
 
 <div class="console">
-    <ul>
-        <li>Shop Chart</li>
-        <li>Alhabetical order of products</li>
-        <li>Add to Chart button</li>
-        <li>Generate Products Segments</li>
-        <li>Summ and Substracts price</li>
-        <li>Personal Data form</li>
-        <li>Send quotation ny email</li>
-    </ul>
+    
+<ul>
+  <li>Shop Cart</li>
+  <li>Alphabetical Order of Products</li>
+  <li>Add to Cart Button</li>
+  <li>Generate Product Segments</li>
+  <li>Sum and Subtract Prices</li>
+  <li>Personal Data Form</li>
+  <li>Send Quotation via Email</li>
+</ul>
+    
 </div>
 
 See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
