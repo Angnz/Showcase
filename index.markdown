@@ -133,7 +133,7 @@ It's an ambitious journey but I'm resolute in my quest to unravel this technolog
 ## Projects
 
 <div class="fenster">
-<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2>
+<p class="fenster-letters"><h2>Simple Product showcase</h2>
 <hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
 
 <div class="console">
@@ -151,16 +151,13 @@ See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
-
 <div class="messagebox">Check how I created this page with Jekyll</div>
 
 [Link to the PI Page](Jekyll/)
 
 
-
 Here's my stuff.
 <button id="btndemierda">A la mierda</button>
-
 
 <script>
 document.getElementById("btndemierda").addEventListener("click", function() {

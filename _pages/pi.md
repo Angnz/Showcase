@@ -1,6 +1,6 @@
 ---
 permalink: /pi/
-layout: page
+layout: default
 title: PI
 ---
 
