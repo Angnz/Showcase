@@ -29,6 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mytwitter
 github_username:  Angnz
 
+- name: Install Bundler dependencies
+  run: bundle install
 # Build settings
  theme: Minimal
 plugins: 
