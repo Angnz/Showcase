@@ -9,6 +9,13 @@
     <title>SimpleOS</title>
       </head>
   <body>
-    
+    <nav>
+      <ul>
+          {% for item in site.data.menu %}
+          <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+          {% endfor %}
+      </ul>
+      </nav>
+      {{content}}
    </body>
 </html>
