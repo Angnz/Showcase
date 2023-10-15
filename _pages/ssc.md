@@ -1,6 +1,6 @@
 ---
 permalink: /ssc/
-layout: page
+layout: default
 title: Simple showcase
 ---
 <hr>
