@@ -1,6 +1,6 @@
 ---
+layout: default
 permalink: /Jekyll/
-layout: page
 title: Jekyll webPage
 ---
 
