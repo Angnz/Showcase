@@ -30,7 +30,7 @@ twitter_username: mytwitter
 github_username:  Angnz
 
 # Build settings
-theme: default
+# theme: default
 plugins:
   - jekyll-feed
 include: [_pages]
