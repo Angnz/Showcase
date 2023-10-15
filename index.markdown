@@ -110,7 +110,9 @@ JavaScript, PHP, ASP.NET, Python, Java, Ruby, SQL, XML, and R. This page will se
 of programming languages and technologies.
 
 <div class="console">
-    Difficulty and logical challenge rating<br>
+    Difficulty and logical challenge rating
+    <br>
+    <br>
     <ul>
         <li>lvl 1: Monkey</li>
         <li>lvl 2: Bob</li>
