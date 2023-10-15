@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: angel_template
 title: About
 permalink: /about/
 ---
