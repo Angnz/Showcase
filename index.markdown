@@ -124,11 +124,10 @@ li {
 
 
 # Greetings people from the future, 
-I'm Angelus, an "intellectually challenged" chimp. My life has taken a unique turn. 
-You see, there's an alien parasite inside me, slowly consuming me from within. 
-To save myself, I must master coding, a skill I'm far from adept at. With this knowledge, I aim to facilitate 
-a cranial transfer into a sophisticated tech-bio entity through neuro-enhanced communication interfaces.
-It's an ambitious journey but I'm resolute in my quest to unravel this technological enigma and save myself from my intergalactic guest.
+
+I'm Angelus, an intellectually challenged chimp with an alien parasite inside me. To survive, 
+I must learn coding to transfer my consciousness into a tech-bio entity.
+It's a challenging journey, but I'm determined to save myself from this cosmic invader.
 
 ## Projects
 
