@@ -105,7 +105,7 @@ code {
 }
 
 li {
-    line-height: 3em;
+    line-height: 1em;
 }
 
 .messagebox {
