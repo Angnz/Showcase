@@ -1,11 +1,11 @@
 - title: Home
-  link: /
+  link: 
 
 - title: About
-  link: /about/
+  link: about/
 
 - title: ssc
   link: ssc/
   
-- title: Subscribe
-  link: /subscribe/
+- title: Contact
+  link: contact/
