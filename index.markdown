@@ -13,8 +13,9 @@ body {
     padding: 1em;
 }
 
-.wrapper{ /*Wraper is the Webpage text*/
-   font-family: Arial, sans-serif;
+.site-header{ /*site-header is the Webpage Banner and  text*/
+    Color: #132043;
+    font-family: Arial, sans-serif;
     background-color: #363062;
     
 }
