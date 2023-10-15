@@ -23,6 +23,10 @@ body {
     
 }
 
+.site-title, .site-title:visited {
+    color: #F99417;
+}
+
 .divheader {
     background-color: #333;
     color: #fff;
