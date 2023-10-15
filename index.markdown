@@ -137,7 +137,7 @@ of programming languages and technologies.
         </ul>
     </div>
 
-        <a href="http://petitaideas.com/test/">See it in acctionr</a>
+        <a href="http://petitaideas.com/test/">See it in acctionr</a><br>
         <a href="https://angnz.github.io/SimpleOS/pi/">Code</a>
 </div>
 
