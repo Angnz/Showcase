@@ -32,9 +32,10 @@ theme: minima
 plugins:
    - jekyll-feed
 
-include: [_pages]
-include: [_layout]
-include: [_data]
+include: 
+  - _pages
+  - _layout
+  - _data
 
 
 
