@@ -68,10 +68,10 @@ a:visited {
     margin: 0 auto;
     padding: 20px;
     margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 fenster-letters{
-
     color:#333;
 }
 button {
