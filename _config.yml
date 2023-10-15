@@ -31,7 +31,7 @@ github_username:  Angnz
 
 # Build settings
  theme: default
-plugins:
+plugins: 
   - jekyll-feed
 include: [_pages]
 include: [_layout]
