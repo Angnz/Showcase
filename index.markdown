@@ -81,7 +81,7 @@ fenster-letters{
     font-family: 'Courier New', monospace;
     border: 1px solid #00ff00;
     line-height: 1;
-
+    margin: 2em;
 }
 
 button {
@@ -157,5 +157,15 @@ See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
+
+<div class="console">
+Difficulty and logical challenge rating
+<ul>
+    <li>lvl 1: Monkey</li>
+    <li>lvl 2: Bob</li>
+    <li>lvl 3: Prometheus</li>
+</ul>
+    
+</div>
 
 [Chek how did I create this page](Jekyll/)
