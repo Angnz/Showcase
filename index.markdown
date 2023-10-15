@@ -8,9 +8,15 @@ layout: home
 <style>
 body {
     font-family: Arial, sans-serif;
-    background-color: #4D4C7D;
+    background-color: #1F4172;
     margin: 2em;
     padding: 1em;
+}
+
+.wrapper{ /*Wraper is the Webpage text*/
+   font-family: Arial, sans-serif;
+    background-color: #363062;
+    
 }
 
 .divheader {
