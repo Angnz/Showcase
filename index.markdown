@@ -151,16 +151,5 @@ See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
-<div class="messagebox">Check how I created this page with Jekyll</div>
 
-[Link to the PI Page](Jekyll/)
-
-
-Here's my stuff.
-<button id="btndemierda">A la mierda</button>
-
-<script>
-document.getElementById("btndemierda").addEventListener("click", function() {
-    alert("Me has clickeao, Tio"); 
-});
-</script>
+[Chek how to I create this page](Jekyll/)
