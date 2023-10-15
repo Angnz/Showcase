@@ -5,7 +5,7 @@ title: Simple showcase
 ---
 <hr>
 
-## Simple Showcase where is possible to view products, choose from a cart, request a price and send a quotation.
+## With this Simple Showcase is possible to view products, choose from a cart, request a price and send a quotation.
 In this minimalist WordPress showcase, products are displayed, and users can interact by selecting items from a shopping cart, soliciting pricing information, and initiating the quotation process. The system relies on Contact Form 7 for form generation, while the essential CSS and JavaScript resources are enqueued and invoked from the functions.php file to ensure the link betweee styling and interactive behavior. Automated updates might break the links in functions.php
 
 ## HTML
