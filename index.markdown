@@ -123,8 +123,12 @@ li {
 </style>
 
 
-# Angelus
-## Welcome to SimpleOS Hier are some projects I am currently working on:
+# Greetings people from the future, 
+Im Angelus, a chimp embarking on a coding adventure. I'll be the first to admit, Im too stupid to code. 
+Nevertheless, I'm here to share the small projects on my webpage that mark my journey toward coding mastery. 
+Why, you ask? Well, it's all about a daring dream of time travel. 
+I believe that by mastering coding, I can return to my time and shape a future where coding is second nature. 
+Join me on my engaging journey, from coding novice to champion, and let me inspire you to tackle new challenges head-on.
 - Peitaideas
 
 
