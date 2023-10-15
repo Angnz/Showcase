@@ -33,10 +33,10 @@ plugins:
    - jekyll-feed
 
 include: 
-  - _pages
-  - _layout
-  - _data
-  - _posts
+   - _pages
+   - _layout
+   - _data
+   - _posts
 
 
 
