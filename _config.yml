@@ -28,7 +28,7 @@ twitter_username: mytwitter
 github_username: Angnz
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 include:
