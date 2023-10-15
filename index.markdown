@@ -31,6 +31,13 @@ body {
     text-decoration: none;
 }
 
+.page-content{
+    font-family: 'Courier New', Courier, monospace;
+    color: #FDF0F0;
+    line-height: 1.5;
+    overflow-x: auto;
+}
+
 .divheader {
     background-color: #333;
     color: #fff;
