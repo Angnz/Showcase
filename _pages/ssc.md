@@ -1,7 +1,7 @@
 ---
 permalink: /pi/
 layout: page
-title: PI
+title: Simple showcase
 ---
 
 # Product showcase. 
