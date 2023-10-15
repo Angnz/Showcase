@@ -30,9 +30,9 @@ github_username: Angnz
 # Build settings
 theme: minima
 plugins:
-   jekyll-feed
+   - jekyll-feed
 
-  include: [_pages]
+  # include: [_pages]
   # include: [_layout]
   # include: [_data]
 
