@@ -124,16 +124,18 @@ li {
 
 
 # Greetings people from the future, 
-Im Angelus, a chimp embarking on a coding adventure. I'll be the first to admit, Im too stupid to code. 
-Nevertheless, I'm here to share the small projects on my webpage that mark my journey toward coding mastery. 
-Why, you ask? Well, it's all about a daring dream of time travel. 
-I believe that by mastering coding, I can return to my time and shape a future where coding is second nature. 
-Join me on my engaging journey, from coding novice to champion, and let me inspire you to tackle new challenges head-on.
-- Peitaideas
+I'm Angelus, a stupid non-logical chimp, and my life has taken a unique turn. 
+You see, there's an alien parasite inside me, slowly consuming me from within. 
+To save myself, I must master coding, a skill I'm far from adept at. With this knowledge, I aim to facilitate 
+a cranial transfer into a sophisticated tech-bio entity through neuro-enhanced communication interfaces.
+It's an ambitious journey for an "intellectually challenged" chimp like me, but I'm resolute in my quest to unravel 
+this technological enigma and save myself from my extraterrestrial guest.
 
+## Projects
 
 <div class="fenster">
-<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
+<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2>
+<hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
 
 <div class="console">
     <ul>
@@ -146,9 +148,8 @@ Join me on my engaging journey, from coding novice to champion, and let me inspi
     </ul>
 </div>
 
-<a href="http://petitaideas.com/test/">See it in acction</a>
+See it in acction: <a href="http://petitaideas.com/test/">Click Hier</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
-Code: <a href="https://angnz.github.io/SimpleOS/contact/">Contact</a>
 </div>
 
 
