@@ -37,6 +37,14 @@ body {
     line-height: 1.5;
 }
 
+a {
+    color: #FDF0F0;
+}
+
+a:visited {
+    color: #00FF00;
+}
+
 .page-content{
     font-family: 'Courier New', Courier, monospace;
     color: #FDF0F0;
