@@ -13,6 +13,196 @@ In this minimalist WordPress showcase, products are displayed, and users can int
 Explain Skeleton
 ```
 
+<!-- GRUPO Productos -->
+
+<div id="seccion1_id" class="seccion1">
+    <h3 class="categoria_productos">Porcelana Fría</h3>
+    <div class="">
+        <p>Los productos hechos en porcelana fría son delicados y detallados, ideales para decorar cualquier espacio del hogar u oficina.</p>
+    </div>
+    <div id="categoria1">
+    </div>
+
+    <h3 class="categoria_productos">Foamy</h3>
+    <div class="">
+        <p>
+            Los productos hechos en Foamy son coloridos, divertidos y versátiles. Estos artículos pueden ser utilizados para decorar, para manualidades, como souvenirs y regalos. Estas manualidades son únicas y hechas a mano, lo que significa que cada pieza es única y personalizada.
+        </p>
+    </div>
+    <div id="categoria2">
+    </div>
+
+    <h3 class="categoria_productos">Novios</h3>
+    <p>
+            texto para Novios DESCRIPCION
+        </p>
+    <div id="categoria3">
+    </div>
+
+     
+
+
+
+</div> <!-- seccion1 End -->
+<!-- Productos END-->
+
+
+<div id="seccion2_id" class="seccion2">
+
+<!-- ELEJIR SI DESEA ENVIO O NO -->
+<h3 class="categoria_productos">servicios</h3>
+       <p>
+            texto para Servicios DESCRIPCION
+        </p>
+    <div id="categoria4">
+    </div>
+
+
+
+    <h2 id="datosdecontacto"><a href="#datosdecontacto">2. Sus datos de contacto</a></h2>
+
+    <!-- Datos Personales-->
+    <label> <b>Nombre</b> (Requerido)
+        [text* your-name placeholder "Nombre"] </label>
+
+    <label> <b>Apellido</b> (Requerido)
+        [text* apellido placeholder "Apellido"]</label>
+
+    <label> <b>Email</b> (Requerido)
+        [email* your-email placeholder "nombre@ejemplo.com"] </label>
+
+    <label> <b>Telefono</b> (Requerido)
+        <i class="nota">*No olvide su código de país</i>
+        [tel* telefono placeholder "ejemplo: +56 123456789 "]
+    </label>
+
+    <label> <b>Fecha aproximada para el pedido? </b>(Opcional)
+        <i class="nota">*Atención en la disponibilidad de la agenda para los pedidos</i>
+        [date date-531 min:45days ]
+    </label>
+
+    <!-- Datos delivery-->
+    <!-- <h2 id="enviarpedido"><a href="#enviarpedido">3. Enviar Pedido</a></h2> -->
+   
+    <!-- Delivry as a product -->
+    <!-- <h3 class="categoria_productos">Envio</h3> -->
+    <!-- <div id="categoria4"></div> -->
+
+    <!-- <div><p class="envio_msg" id="mensaje-envio"></p></div> -->
+    <!-- Datos delivery END-->
+
+</hr>
+    <!-- Info for Delivery -->
+    <b>Datos para la entrega del pedido (Nacional)</b>
+    <label>Calle (Requerido)<br>
+        [text* calle id:adress_calle]</label>
+    <label>Numero (Requerido)<br>
+        [text* numero id:adress_numero]</label>
+    <label>Comuna (Requerido)<br>
+        [text* comuna id:adress_comuna]</label>
+    <label>Código postal (Requerido)<br>
+        [text* ciudad id:adress_codigo]</label>
+    <label>Ciudad (Requerido)<br>
+        [text* ciudad id:adress_ciudad]</label>    
+    <label>Región (Requerido)<br>    
+        [select* region id:id:adress_region "Región de Tarapacá " "Región de Antofagasta " "Región de Atacama " "Región de Coquimbo " "Región de Valparaíso " "Región Metropolitana de Santiago " "Región del Libertador General Bernardo O’Higgins " "Región del Maule " "Región del Ñuble " "Región del Biobío " "Región de La Araucanía " "Región de Los Ríos " "Región de Los Lagos " "Región de Aysén del General Carlos Ibáñez del Campo " "Región de Magallanes y la Antártica Chilena"]</label>
+    <label>País (Requerido)<br>
+        [text* adress_pais readonly "Chile"]</label>
+
+
+    <label>Indicaciones adicionales para la entrega<br>
+        [textarea additional-instructions x2]</label><br>
+
+
+    <!-- Datos delivery END-->
+    <!-- Datos Personales END-->
+
+
+            <div id="tocheckout_id">
+                <p class="enviar_Panel">Siguiente</p>
+            </div>
+</div><!-- seccion2 End -->
+
+
+
+    <div id="seccion3_id" class="seccion3">
+
+<h2 id="checkout"><a href="#checkout">3. Enviar el pedido</a></h2>
+
+        <label>
+            <b>Le gustaría recibir E-mails (Newsletters) con futuras promociones e infromación de Petita Ideas...?
+            </b></label>
+        </br>
+        [radio radio-175 use_label_element default:2 "Si, me gustaría recibir E-mails con futuras promociones e información de Petita Ideas..." "No, no deseo recibir futuras promociones e información de Petita Ideas a mi dirección de correo electrónico"]
+
+        <label> <b>Envienos un mensaje</b>
+            [textarea your-message minlength:5 maxlength:300 x1 placeholder "Ejemplo: EL producto 2.1 tiene me gustaría en rojo..."]</label>
+        [count your-message down ]
+
+
+
+        <label>
+            [acceptance acceptance-31] He leído y acepto las <a href="http://petitaideas.com/privacy-policy/"
+                target="_blank">políticas de privacidad</a> [/acceptance]<p><i class="nota">Recivirá un email de confirmación con su pedido (revise su carpeta de "SPAM"). La finalidad de la información recopilada se limita exclusivamente a la comunicación entre el cliente y Petita Ideas. Para más detalles visite nuestra páguina de <a href="http://petitaideas.com/politica-de-privacidad-espanol/" target="_blank">políticas de privacidad</a>. sección: "Sus datos de contacto"</i></p></label>
+
+
+           <div id="atras_id"><p class="enviar_Panel">volver a datos de contácto</p></div>           
+            <div> 
+
+
+                    <p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js"value="181" />
+                     <script>document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());</script></p>
+
+                    <div class="wpcf7-response-output" aria-hidden="true"></div>
+                    <label>[submit "Enviar"]</label>
+                    <!-- sección final END -->
+
+
+            </div>
+
+
+    </div><!-- seccion3 End -->
+
+
+                    [textarea Listadecarritoemail id:listacarrito 3x8 readonly hidden ]
+                    [textarea Totaldelcarrito id:ListaCarritoTotal 3x1 readonly hidden ]
+
+
+
+<div class="carrito-float">
+    <!-- Carrito Flotante -->
+    <a id="boton-carrito" href=#><img id="carritoIcon" class="carritoCompra" src="http://petitaideas.com/wp-content/uploads/2023/05/shopping-bag-color-icon.png" alt="carrito de compra">
+
+    <i class="fas fa-shopping-cart"></i>
+
+    <span class="num-items"></span>
+    </a>
+</div>
+
+
+
+<div id="panel-carrito">
+    <!-- PANEL CARRITO -->
+    <!-- Carrito de compras -->
+    <div class="carritoStyle">
+        <div class="header_carrito">
+            <h2>Carrito de compras</h2>
+        </div>
+        <div class="productos_en_carrito"><ul id="carrito"></ul></div>  
+        <div id="seccioncarrito_id" class="seccioncarrito">
+            <b>Total: CLP<span id="total"></span></b>
+            (Total en Pesos Chilenos)
+            
+            <!-- Carrito de compras END-->
+            <div id="cerrarPanel_id">
+                <p class="cerrarPanel">Volver a la tienda</p>
+            </div>
+            <div id="enviarPanel_id">
+                <p class="enviar_Panel">Datos de contácto</p>
+            </div>
+        </div>
+    </div>
+</div>
 ```
 
 ## PHP
@@ -42,6 +232,333 @@ add_action('wp_enqueue_scripts','function_css');
 
 /*My Code for online shop END*/
 ```
+
+
+
+## JS
+
+Explain JS
+```
+//----------------------------------------------
+// 1.-Productos y CAtegorias
+//----------------------------------------------
+
+
+
+/*version 2 con precio formateado*/
+  
+let carrito = [];
+let checkiVacio;
+const productos = [
+  {
+    nombre: "Porcelana <br > Rapunzel",
+    precio: 30000,
+    imagen: "",
+    descripcion: "Figura de porcelana fría de Rapunzel, detallada y delicada, ideal para decorar habitaciones de cuentos de hadas.<br><br>Altura: 15cm<br>Peso: 400grm<br>Base decorativa no incluida",
+    categoria: 1
+  },
+  {
+    nombre: "Porcelana <br > Mujer costurera",
+    precio: 20000,
+    imagen: "",
+    descripcion: "Figurita de porcelana fría de una mujer sentada frente a una máquina de coser, con detalles realistas y colores vivos.<br><br>Altura: 10cm<br>Peso: 400grm<br>Base decorativa no incluida",
+    categoria: 1
+  },
+  {
+    nombre: "Porcelana <br > Novios",
+    precio: 19990,
+    imagen: "",
+    descripcion: "Novios en porcelana<br>12cm<br>Base no incluida",
+    categoria: 1
+  },
+  {
+    nombre: "Producto 2.1 <br > Product Name",
+    precio: 15500,
+    imagen: "",
+    descripcion: "Descripción del producto 3",
+    categoria: 2
+  },
+  {
+    nombre: "Producto 2.2 <br > Product Name",
+    precio: 12500,
+    imagen: "",
+    descripcion: "Descripción del producto 4",
+    categoria: 2
+  },
+  {
+    nombre: "Producto 2.3 <br > Product Name",
+    precio: 6000,
+    imagen: "",
+    descripcion: "Descripción del producto 6",
+    categoria: 2
+  },
+  {
+    nombre: "Foamy <br > Product Name",
+    precio: 10500,
+    imagen: "",
+    descripcion: "Descripción del producto 5",
+    categoria: 3
+  },
+  {
+    nombre: "Porcelana <br > Product Name",
+    precio: 13550,
+    imagen: "",
+    descripcion: "Novios en porcelana<br>12cm<br>Base no incluida",
+    categoria: 3
+  },
+  {
+    nombre: "*Envio por Correo (Nacional)*",
+    precio: 6000,
+    imagen: "",
+    descripcion: "Se envia a todo el territorio nacional<br >El precio del envio se paga junto con el total<br > ",
+    categoria: 4
+  }
+
+];
+
+// Agregar productos a sus categorías
+productos.forEach(producto => {
+  let productoHTML = `<div>
+      <h3 class="nombre_producto">${producto.nombre}</h3>
+      <img class="img_producto" src="${producto.imagen}" alt="${producto.nombre}">
+      <p class="descripcion_producto">${producto.descripcion}</p>
+      <p class="precio_producto">Precio CLP: $${producto.precio.toLocaleString()}</p>
+      <button onclick="agregarProducto(event, '${producto.nombre}', ${producto.precio},'${producto.imagen}')">Agregar al carrito</button>
+<p class="info_producto">CLP = PESO CHILENO</p>
+  </div>`;
+  switch (producto.categoria) {
+    case 1:
+      document.getElementById("categoria1").innerHTML += productoHTML;
+      break;
+    case 2:
+      document.getElementById("categoria2").innerHTML += productoHTML;
+      break;
+    case 3:
+      document.getElementById("categoria3").innerHTML += productoHTML;
+      break;
+    case 4:
+      document.getElementById("categoria4").innerHTML += productoHTML;
+      break;
+    default:
+      break;
+  }
+});
+
+//----------------------------------------------
+// 2.-AGREGAR PRODUCTO AL CARRITO / Carrito
+//----------------------------------------------
+
+const agregarProducto = (event, nombre, precio, imagen) => {
+    event.preventDefault();
+ 
+    if (nombre === "*Envio por Correo (Nacional)*") {
+
+    // Verificar si el producto ya está en el carrito
+    const productoExistente = carrito.find(producto => producto.nombre === nombre);
+    if (productoExistente) {
+      // Mostrar el mensaje de envío
+      const mensajeEnvio = document.getElementById("mensaje-envio");
+      mensajeEnvio.textContent = "Aviso: El envío ya se ha agregado! Revise su carrito de compras.";
+      mensajeEnvio.style.display = "block";
+      // Ocultar el mensaje después de 3 segundos
+      setTimeout(() => {
+        mensajeEnvio.style.display = "none";
+      }, 3000);
+      return;
+    }
+  }
+
+  carrito.push({ nombre, precio, imagen });
+    actualizarCarrito();
+
+  // Agregar clase al botón
+  // event.target.classList.add("btn-agregar");
+  // Eliminar clase después de un tiempo
+  // setTimeout(() => {
+  //   event.target.classList.remove("mensaje-envio")
+  // }, 500);
+
+};
+
+
+//----------------------------------------------
+// 3.-FUNCIONES DE ACTUALIZACION CARRITO
+//----------------------------------------------
+// Declara la variable checkiVacio fuera de la función actualizarCarrito para almacenar total de manera global
+const actualizarCarrito = () => {
+  let lista = "";
+  let total = 0;
+
+  // Ordfena lis productos alfabeticamente
+  carrito.sort((a, b) => a.nombre.localeCompare(b.nombre));
+  for (let i = 0; i < carrito.length; i++) {
+    lista += `<li> <img src="${carrito[i].imagen}" width="50px"><div id="prod_nomebrecarrito">${carrito[i].nombre}</div> <div id="prod_precioencarrito">$${formatearNumero(carrito[i].precio)}</div> <button onclick='quitarProducto(${i})'>Quitar</button></li>`;
+    total += carrito[i].precio; 
+  }
+
+  document.getElementById("carrito").innerHTML = lista;
+  document.getElementById("total").innerHTML = `$${formatearNumero(total)}`;
+
+  // toma el valor de total
+  checkiVacio = total;
+
+  // Actualizar la lista de carrito en el formulario de contacto
+  actualizarListaCarrito();
+  actualizarListaCarritoTotal(total);
+
+  //muestra el contenido de Total
+   // window.alert();
+
+  //Check si el carrito esta vacio, asi depliega el boton de Enviar pedido
+  if (checkiVacio === 0) {
+    enviarPanel.classList.add('esconder');
+    //window.alert('Carrito está vacío');
+  } else {
+    enviarPanel.classList.remove('esconder');
+  }
+
+};
+
+
+//actializar Lista en el formulario
+const actualizarListaCarrito = () => {
+    let lista = "";
+  for (let i = 0; i < carrito.length; i++) {
+    lista += `${carrito[i].nombre} - $${carrito[i].precio.toLocaleString()}\n`;
+  }
+  document.getElementById("listacarrito").value = lista;
+}
+
+
+//actializar total en el formulario
+const actualizarListaCarritoTotal = (total) => {
+  document.getElementById("ListaCarritoTotal").value = `$${formatearNumero(total)}`;
+  // Actualizar el número de artículos en el carrito al cargar la página
+  actualizarNumItems();
+};
+
+
+// Mostrar el número de artículos en el carrito
+function actualizarNumItems() {
+  const numItems = carrito.length;
+  const numItemsEl = document.querySelector('.num-items');
+  numItemsEl.innerText = numItems;
+  //sacudir el carrito cuando se agrega un numero
+}
+
+
+// Agrego formato al precio
+const formatearNumero = (numero) => {
+  return new Intl.NumberFormat('es-CL', { style: 'decimal', minimumFractionDigits: 0, maximumFractionDigits: 2 }).format(numero);
+};
+
+
+//----------------------------------------------
+// 4. panel carruito
+//----------------------------------------------
+
+// quitar producto
+const quitarProducto = (index) => {
+  carrito.splice(index, 1);
+  actualizarCarrito();   
+};
+
+var botonCarrito = document.getElementById('boton-carrito');
+var panelCarrito = document.getElementById('panel-carrito');
+var cerrarPanel = document.getElementById('cerrarPanel_id');
+var enviarPanel = document.getElementById('enviarPanel_id');
+var tocheckout_btn = document.getElementById('tocheckout_id');
+var todatoscontacto_btn = document.getElementById('atras_id');
+
+// Seleccionar secciones 1, 2, 3
+ const seccion1 = document.querySelector('#seccion1_id');
+ const seccion2 = document.querySelector('#seccion2_id');
+ const seccion3 = document.querySelector('#seccion3_id');
+
+ seccion1.style.display = 'block';
+ seccion2.style.display = 'none';
+ seccion3.style.display = 'none';
+
+
+// Boton carrito. Funciones al click
+
+botonCarrito.addEventListener('click', function (e) {
+  e.preventDefault();
+  actualizarCarrito();
+
+   // Actualizo carrito para que apareca con valor 0
+  panelCarrito.classList.toggle('mostrar');
+  
+  if (panelCarrito.classList.contains('mostrar')) {
+    document.body.style.overflow = 'hidden';
+  } else { 
+    document.body.style.overflow = 'initial';
+  }
+
+  
+
+});
+
+// Al cerrar el panel, que vuelva a la tienda online y active el scrolling
+cerrarPanel.addEventListener('click', function (e) {
+  panelCarrito.classList.toggle('mostrar');
+  document.body.style.overflow = 'initial';
+  seccion1.style.display = 'block';
+  seccion2.style.display = 'none';
+  seccion3.style.display = 'none';
+  // seccion1.scrollIntoView({ behavior: 'smooth' });
+
+});
+
+// Este aplica a cunando precionas el boton "enciar pedido" naranjo
+enviarPanel.addEventListener('click', function (e) {
+  panelCarrito.classList.toggle('mostrar');
+  document.body.style.overflow = 'initial';
+  seccion1.style.display = 'none';
+  seccion2.style.display = 'block';
+  seccion3.style.display = 'none';
+  seccion2.scrollIntoView({ behavior: 'smooth' });
+  
+});
+
+// Al precoionar el btn de "Atrás" en el check out
+todatoscontacto_btn.addEventListener('click', function (e) {
+  // panelCarrito.classList.toggle('mostrar');
+  // document.body.style.overflow = 'initial';
+  seccion1.style.display = 'none';
+  seccion2.style.display = 'block';
+  seccion3.style.display = 'none';
+  seccion2.scrollIntoView({ behavior: 'smooth' });
+  
+});
+
+// Al precoionar el btn de proceder a check out
+tocheckout_btn.addEventListener('click',function(e){
+
+  seccion1.style.display = 'none';
+  seccion2.style.display = 'none';
+  seccion3.style.display = 'block';
+  seccion3.scrollIntoView({ behavior: 'smooth' });
+});
+
+
+
+
+
+actualizarCarrito();
+
+// Animar boton feedback
+const btnAgregar = document.querySelector('.btn-agregar');
+btnAgregar.addEventListener('click', () => {
+  btnAgregar.classList.add('shake');
+  setTimeout(() => {
+    btnAgregar.classList.remove('shake');
+  }, 100);
+});
+
+
+```
+
 
 ## CSS
 
@@ -564,328 +1081,8 @@ FUTURO ESTILO DE BOTONES
 
 ```
 
-## JS
-
-Explain JS
-```
-//----------------------------------------------
-// 1.-Productos y CAtegorias
-//----------------------------------------------
 
 
+[Download the files hier](https://github.com/Angnz/PI_OS.git) 
 
-/*version 2 con precio formateado*/
-  
-let carrito = [];
-let checkiVacio;
-const productos = [
-  {
-    nombre: "Porcelana <br > Rapunzel",
-    precio: 30000,
-    imagen: "",
-    descripcion: "Figura de porcelana fría de Rapunzel, detallada y delicada, ideal para decorar habitaciones de cuentos de hadas.<br><br>Altura: 15cm<br>Peso: 400grm<br>Base decorativa no incluida",
-    categoria: 1
-  },
-  {
-    nombre: "Porcelana <br > Mujer costurera",
-    precio: 20000,
-    imagen: "",
-    descripcion: "Figurita de porcelana fría de una mujer sentada frente a una máquina de coser, con detalles realistas y colores vivos.<br><br>Altura: 10cm<br>Peso: 400grm<br>Base decorativa no incluida",
-    categoria: 1
-  },
-  {
-    nombre: "Porcelana <br > Novios",
-    precio: 19990,
-    imagen: "",
-    descripcion: "Novios en porcelana<br>12cm<br>Base no incluida",
-    categoria: 1
-  },
-  {
-    nombre: "Producto 2.1 <br > Product Name",
-    precio: 15500,
-    imagen: "",
-    descripcion: "Descripción del producto 3",
-    categoria: 2
-  },
-  {
-    nombre: "Producto 2.2 <br > Product Name",
-    precio: 12500,
-    imagen: "",
-    descripcion: "Descripción del producto 4",
-    categoria: 2
-  },
-  {
-    nombre: "Producto 2.3 <br > Product Name",
-    precio: 6000,
-    imagen: "",
-    descripcion: "Descripción del producto 6",
-    categoria: 2
-  },
-  {
-    nombre: "Foamy <br > Product Name",
-    precio: 10500,
-    imagen: "",
-    descripcion: "Descripción del producto 5",
-    categoria: 3
-  },
-  {
-    nombre: "Porcelana <br > Product Name",
-    precio: 13550,
-    imagen: "",
-    descripcion: "Novios en porcelana<br>12cm<br>Base no incluida",
-    categoria: 3
-  },
-  {
-    nombre: "*Envio por Correo (Nacional)*",
-    precio: 6000,
-    imagen: "",
-    descripcion: "Se envia a todo el territorio nacional<br >El precio del envio se paga junto con el total<br > ",
-    categoria: 4
-  }
-
-];
-
-// Agregar productos a sus categorías
-productos.forEach(producto => {
-  let productoHTML = `<div>
-      <h3 class="nombre_producto">${producto.nombre}</h3>
-      <img class="img_producto" src="${producto.imagen}" alt="${producto.nombre}">
-      <p class="descripcion_producto">${producto.descripcion}</p>
-      <p class="precio_producto">Precio CLP: $${producto.precio.toLocaleString()}</p>
-      <button onclick="agregarProducto(event, '${producto.nombre}', ${producto.precio},'${producto.imagen}')">Agregar al carrito</button>
-<p class="info_producto">CLP = PESO CHILENO</p>
-  </div>`;
-  switch (producto.categoria) {
-    case 1:
-      document.getElementById("categoria1").innerHTML += productoHTML;
-      break;
-    case 2:
-      document.getElementById("categoria2").innerHTML += productoHTML;
-      break;
-    case 3:
-      document.getElementById("categoria3").innerHTML += productoHTML;
-      break;
-    case 4:
-      document.getElementById("categoria4").innerHTML += productoHTML;
-      break;
-    default:
-      break;
-  }
-});
-
-//----------------------------------------------
-// 2.-AGREGAR PRODUCTO AL CARRITO / Carrito
-//----------------------------------------------
-
-const agregarProducto = (event, nombre, precio, imagen) => {
-    event.preventDefault();
- 
-    if (nombre === "*Envio por Correo (Nacional)*") {
-
-    // Verificar si el producto ya está en el carrito
-    const productoExistente = carrito.find(producto => producto.nombre === nombre);
-    if (productoExistente) {
-      // Mostrar el mensaje de envío
-      const mensajeEnvio = document.getElementById("mensaje-envio");
-      mensajeEnvio.textContent = "Aviso: El envío ya se ha agregado! Revise su carrito de compras.";
-      mensajeEnvio.style.display = "block";
-      // Ocultar el mensaje después de 3 segundos
-      setTimeout(() => {
-        mensajeEnvio.style.display = "none";
-      }, 3000);
-      return;
-    }
-  }
-
-  carrito.push({ nombre, precio, imagen });
-    actualizarCarrito();
-
-  // Agregar clase al botón
-  // event.target.classList.add("btn-agregar");
-  // Eliminar clase después de un tiempo
-  // setTimeout(() => {
-  //   event.target.classList.remove("mensaje-envio")
-  // }, 500);
-
-};
-
-
-//----------------------------------------------
-// 3.-FUNCIONES DE ACTUALIZACION CARRITO
-//----------------------------------------------
-// Declara la variable checkiVacio fuera de la función actualizarCarrito para almacenar total de manera global
-const actualizarCarrito = () => {
-  let lista = "";
-  let total = 0;
-
-  // Ordfena lis productos alfabeticamente
-  carrito.sort((a, b) => a.nombre.localeCompare(b.nombre));
-  for (let i = 0; i < carrito.length; i++) {
-    lista += `<li> <img src="${carrito[i].imagen}" width="50px"><div id="prod_nomebrecarrito">${carrito[i].nombre}</div> <div id="prod_precioencarrito">$${formatearNumero(carrito[i].precio)}</div> <button onclick='quitarProducto(${i})'>Quitar</button></li>`;
-    total += carrito[i].precio; 
-  }
-
-  document.getElementById("carrito").innerHTML = lista;
-  document.getElementById("total").innerHTML = `$${formatearNumero(total)}`;
-
-  // toma el valor de total
-  checkiVacio = total;
-
-  // Actualizar la lista de carrito en el formulario de contacto
-  actualizarListaCarrito();
-  actualizarListaCarritoTotal(total);
-
-  //muestra el contenido de Total
-   // window.alert();
-
-  //Check si el carrito esta vacio, asi depliega el boton de Enviar pedido
-  if (checkiVacio === 0) {
-    enviarPanel.classList.add('esconder');
-    //window.alert('Carrito está vacío');
-  } else {
-    enviarPanel.classList.remove('esconder');
-  }
-
-};
-
-
-//actializar Lista en el formulario
-const actualizarListaCarrito = () => {
-    let lista = "";
-  for (let i = 0; i < carrito.length; i++) {
-    lista += `${carrito[i].nombre} - $${carrito[i].precio.toLocaleString()}\n`;
-  }
-  document.getElementById("listacarrito").value = lista;
-}
-
-
-//actializar total en el formulario
-const actualizarListaCarritoTotal = (total) => {
-  document.getElementById("ListaCarritoTotal").value = `$${formatearNumero(total)}`;
-  // Actualizar el número de artículos en el carrito al cargar la página
-  actualizarNumItems();
-};
-
-
-// Mostrar el número de artículos en el carrito
-function actualizarNumItems() {
-  const numItems = carrito.length;
-  const numItemsEl = document.querySelector('.num-items');
-  numItemsEl.innerText = numItems;
-  //sacudir el carrito cuando se agrega un numero
-}
-
-
-// Agrego formato al precio
-const formatearNumero = (numero) => {
-  return new Intl.NumberFormat('es-CL', { style: 'decimal', minimumFractionDigits: 0, maximumFractionDigits: 2 }).format(numero);
-};
-
-
-//----------------------------------------------
-// 4. panel carruito
-//----------------------------------------------
-
-// quitar producto
-const quitarProducto = (index) => {
-  carrito.splice(index, 1);
-  actualizarCarrito();   
-};
-
-var botonCarrito = document.getElementById('boton-carrito');
-var panelCarrito = document.getElementById('panel-carrito');
-var cerrarPanel = document.getElementById('cerrarPanel_id');
-var enviarPanel = document.getElementById('enviarPanel_id');
-var tocheckout_btn = document.getElementById('tocheckout_id');
-var todatoscontacto_btn = document.getElementById('atras_id');
-
-// Seleccionar secciones 1, 2, 3
- const seccion1 = document.querySelector('#seccion1_id');
- const seccion2 = document.querySelector('#seccion2_id');
- const seccion3 = document.querySelector('#seccion3_id');
-
- seccion1.style.display = 'block';
- seccion2.style.display = 'none';
- seccion3.style.display = 'none';
-
-
-// Boton carrito. Funciones al click
-
-botonCarrito.addEventListener('click', function (e) {
-  e.preventDefault();
-  actualizarCarrito();
-
-   // Actualizo carrito para que apareca con valor 0
-  panelCarrito.classList.toggle('mostrar');
-  
-  if (panelCarrito.classList.contains('mostrar')) {
-    document.body.style.overflow = 'hidden';
-  } else { 
-    document.body.style.overflow = 'initial';
-  }
-
-  
-
-});
-
-// Al cerrar el panel, que vuelva a la tienda online y active el scrolling
-cerrarPanel.addEventListener('click', function (e) {
-  panelCarrito.classList.toggle('mostrar');
-  document.body.style.overflow = 'initial';
-  seccion1.style.display = 'block';
-  seccion2.style.display = 'none';
-  seccion3.style.display = 'none';
-  // seccion1.scrollIntoView({ behavior: 'smooth' });
-
-});
-
-// Este aplica a cunando precionas el boton "enciar pedido" naranjo
-enviarPanel.addEventListener('click', function (e) {
-  panelCarrito.classList.toggle('mostrar');
-  document.body.style.overflow = 'initial';
-  seccion1.style.display = 'none';
-  seccion2.style.display = 'block';
-  seccion3.style.display = 'none';
-  seccion2.scrollIntoView({ behavior: 'smooth' });
-  
-});
-
-// Al precoionar el btn de "Atrás" en el check out
-todatoscontacto_btn.addEventListener('click', function (e) {
-  // panelCarrito.classList.toggle('mostrar');
-  // document.body.style.overflow = 'initial';
-  seccion1.style.display = 'none';
-  seccion2.style.display = 'block';
-  seccion3.style.display = 'none';
-  seccion2.scrollIntoView({ behavior: 'smooth' });
-  
-});
-
-// Al precoionar el btn de proceder a check out
-tocheckout_btn.addEventListener('click',function(e){
-
-  seccion1.style.display = 'none';
-  seccion2.style.display = 'none';
-  seccion3.style.display = 'block';
-  seccion3.scrollIntoView({ behavior: 'smooth' });
-});
-
-
-
-
-
-actualizarCarrito();
-
-// Animar boton feedback
-const btnAgregar = document.querySelector('.btn-agregar');
-btnAgregar.addEventListener('click', () => {
-  btnAgregar.classList.add('shake');
-  setTimeout(() => {
-    btnAgregar.classList.remove('shake');
-  }, 100);
-});
-
-
-```
-[Download the files hier](https://github.com/Angnz/PI_OS.git)
-Angelus
+https://github.com/Angnz/PI_OS.git)
