@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: SimpleOS
+email: jaaaa@example.com
+description: "My Programming Journey/ Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills. I'm a newbie in the programming world and I'm super excited to explore web development. I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, delving into MySQL to understand databases and data management, and using Jekyll to build static websites and blogs. In my learning journey, I'm tackling different projects, such as my personal website (built with Jekyll) to showcase my skills and achievements, a web app using JavaScript for specific tasks, and a project that leverages MySQL to handle data."
+
+baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mytwitter
+github_username: Angnz
+
+# Build settings
+theme: minima
+plugins:
+   - jekyll-feed
+
+include: [_pages]
+  # include: [_layout]
+  # include: [_data]
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
