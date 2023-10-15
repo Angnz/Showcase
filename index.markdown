@@ -13,7 +13,7 @@ body {
     padding: 1em;
 }
 
-.site-header{ /*site-header is the Webpage Banner and  text*/
+.site-header, .footer-heading{ /*site-header is the Webpage Banner and  text*/
     Color: #132043;
     font-family: Arial, sans-serif;
     background-color: #363062;
