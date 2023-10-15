@@ -1,8 +1,8 @@
 ---
 layout: home
+title: SimpleOS
 ---
 
-    
 # Greetings, 
 
 I'm Angelus, an intellectually challenged chimp with an alien parasite inside me. To survive, 
