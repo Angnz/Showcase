@@ -7,13 +7,15 @@ title: PI
 # Product showcase. 
 ## In this very simple Showcase it is possible to view products, choose from a cart, request a price and send a quotation.
 
-##HTML
+## HTML
+
 Explain Skeleton
 ```
 
 ```
 
-##CSS
+## CSS
+
 Explain CSS
 ```
 /* CSS para pantallas grandes */
@@ -533,7 +535,8 @@ FUTURO ESTILO DE BOTONES
 
 ```
 
-##JS
+## JS
+
 Explain JS
 ```
 //----------------------------------------------
