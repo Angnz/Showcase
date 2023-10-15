@@ -34,13 +34,9 @@ plugins:
 
 include: 
    - _pages
-   #- _layouts
-   #- _data
    - _posts
 
-exclude:
-   - _layouts
-   - _data
+
 
 
 # Exclude from processing.
