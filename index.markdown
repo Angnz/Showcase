@@ -152,4 +152,4 @@ Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 </div>
 
 
-[Chek how to I create this page](Jekyll/)
+[Chek how did I create this page](Jekyll/)
