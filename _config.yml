@@ -34,8 +34,8 @@ plugins:
 
 include: 
    - _pages
-   - _layouts
-   - _data
+   #- _layouts
+   #- _data
    - _posts
 
 
