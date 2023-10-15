@@ -121,9 +121,7 @@ li {
 
 
 <div class="fenster">
-<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><br> A simple shop in html, JS, and CSS</p>
-<p>
-It contains:
+<p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
 <ul>
     <li>Shop Chart</li>
     <li>Alhabetical order of products</li>
@@ -133,7 +131,7 @@ It contains:
     <li>Personal Data form</li>
 </ul>
 
-</p>
+
 <a href="http://petitaideas.com/test/">See it in acction</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
 Code: <a href="https://angnz.github.io/SimpleOS/contact/">Contact</a>
