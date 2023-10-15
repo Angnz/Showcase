@@ -73,6 +73,15 @@ a:visited {
 fenster-letters{
     color:#333;
 }
+
+.console {
+    background-color: #333;
+    color: #00ff00;
+    padding: 10px;
+    font-family: 'Courier New', monospace;
+    border: 1px solid #00ff00;
+}
+
 button {
     background-color: #0074d9;
     color: #fff;
@@ -121,15 +130,17 @@ li {
 
 <div class="fenster">
 <p class="fenster-letters"><h2>Peitaideas Online Shop.</h2><hr><br> A simple shop in html, JS, and CSS.<br>It contains:</p>
-<ul>
-    <li>Shop Chart</li>
-    <li>Alhabetical order of products</li>
-    <li>Add to Chart button</li>
-    <li>Generate Products Segments</li>
-    <li>Summ and Substracts price</li>
-    <li>Personal Data form</li>
-</ul>
 
+<div class="console">
+    <ul>
+        <li>Shop Chart</li>
+        <li>Alhabetical order of products</li>
+        <li>Add to Chart button</li>
+        <li>Generate Products Segments</li>
+        <li>Summ and Substracts price</li>
+        <li>Personal Data form</li>
+    </ul>
+</div>
 
 <a href="http://petitaideas.com/test/">See it in acction</a>
 Code: <a href="https://angnz.github.io/SimpleOS/pi/">Click hier</a>
