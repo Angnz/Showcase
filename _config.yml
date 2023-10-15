@@ -34,7 +34,7 @@ plugins:
 include:
   - [_pages]
   - [_layout]
-  - [_layout]
+  - [data]
 
 
 
