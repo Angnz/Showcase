@@ -52,13 +52,6 @@ a:visited {
     overflow-x: auto;
 }
 
-.divheader {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
 .fenster {
 
     background-color: #4F709C; /* Color azul crema */
@@ -84,26 +77,6 @@ fenster-letters{
     margin: 2em;
 }
 
-button {
-    background-color: #0074d9;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-}
-
-code {
-    font-family: 'Courier New', Courier, monospace;
-    color: #333;
-    background-color: #f4f4f4;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 10px;
-    font-size: 16px;
-    line-height: 1.5;
-    overflow-x: auto;
-}
-
 li {
     line-height: 1.5em;
 }
@@ -122,6 +95,7 @@ li {
     content: "\2192";
     margin-right: 10px;
 }
+
 </style>
 
 
