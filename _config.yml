@@ -36,20 +36,6 @@ include:
   - _layout
   - _data
 
-# Install required gems
-install:
-  steps:
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.7.2
-
-    - name: Install Bundler
-      run: gem install bundler
-    - name: Install Jekyll
-      run: gem install jekyll
-    - name: Install required gems
-      run: bundle install
 
 # Exclude from processing.
 # The following items will not be processed, by default.
