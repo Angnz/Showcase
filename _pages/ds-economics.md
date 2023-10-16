@@ -57,6 +57,7 @@ title: Data Science in Economics
       }
 
 </style>
+## Introduction to Data Science for Economics 
 
 # Why Opt for "Data Science"?
 "Data Science" stands as an interdisciplinary realm that embraces the utilization of data to derive meaningful knowledge. It encompasses the entire process of refining raw data into practical insights, adaptable to a wide spectrum of fields and applications. Numerous scientific disciplines, such as the social sciences, economics, law, and business administration, are witnessing substantial shifts, with data science emerging as an indispensable and progressively pivotal element within each of these domains."
