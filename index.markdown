@@ -226,5 +226,5 @@ of programming languages and technologies.
    <article>
       {% include article.html %}
     </article>
-{% end %}
+{% endfor %}
 
