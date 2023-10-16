@@ -132,10 +132,10 @@ of programming languages and technologies.
     <br>
     <br>
     <ul>
-        <li>lvl 1:🐒 Monkey</li>
-        <li>lvl 2:👨🏻‍🚀 Bob</li>
-        <li>lvl 3:👽 Prometheus</li>
-        <li>lvl 4:🧠 Spock</li>
+        <li>lvl 1: Monkey</li>
+        <li>lvl 2: Bob</li>
+        <li>lvl 3: Prometheus</li>
+        <li>lvl 4: Spock</li>
     </ul>
     </div>
 
