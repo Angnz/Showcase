@@ -140,19 +140,45 @@ of programming languages and technologies.
         <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
 </div>
 
+# Research and Data
+
 <div class="fenster">
 
     <p class="fenster-letters"><h2>Research & Data Science</h2>
     <hr><br> Data science fundamentals for Socioeconomical studies</p>
 
     <div class="console">
-        <ul>16.10.23 Introduction</li>
+        <ul>
+        <li>16.10.23 Introduction</li>
         </ul>
     </div>
         <br>
         <a href="">Go to Data</a><br>
         <a href="">Codes</a>
 </div>
+
+# Programming
+
+<div class="fenster">
+
+    <p class="fenster-letters"><h2>Programming & Analytics</h2>
+    <hr><br> Data science fundamentals for Socioeconomical studies</p>
+
+    <div class="console">
+        <ul>
+        <li>JavaScript</li>
+        <li>SPSS</li>
+        <li>Phython</li>
+        <li>VBA</li>
+        <li>R</li>
+        </ul>
+    </div>
+        <br>
+        <a href="">Go to Data</a><br>
+        <a href="">Codes</a>
+</div>
+
+
 
 
 [Chek how did I create this page](Jekyll/)
