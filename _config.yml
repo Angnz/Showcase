@@ -20,8 +20,7 @@
 
 title: SimpleOS
 email: jaaaa@example.com
-description: "My Programming Journey/ Hello! This page is all about my adventure into the world of programming. I'm diving into various tech areas, like JavaScript, MySQL, and Jekyll. I'll be sharing my progress, experiences, and the cool projects I'm working on to level up my skills. I'm a newbie in the programming world and I'm super excited to explore web development. I'm focusing on JavaScript (JS) to create interactive web apps and improve user experiences, delving into MySQL to understand databases and data management, and using Jekyll to build static websites and blogs. In my learning journey, I'm tackling different projects, such as my personal website (built with Jekyll) to showcase my skills and achievements, a web app using JavaScript for specific tasks, and a project that leverages MySQL to handle data."
-
+description: "Explore my foray into the world of programming and data analysis, where I'm delving into various areas. Follow my path as I share my progress, experiences, and exciting projects to boost my skills. As a programming newcomer, I'm excited about web development and data analysis, focusing on creating interactive applications, improving user experiences, and handling data effectively. Join me in my journey as I work on projects like my personal website to showcase my skills, a web app for specific tasks, and a project for data management and analysis."
 baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mytwitter
