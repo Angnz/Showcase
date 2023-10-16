@@ -84,7 +84,6 @@ Shopping Cart and Floating Cart:
 
 - The shopping cart is represented by a floating cart icon (carrito-float) at the bottom of the page.
 When clicked, this cart opens the panel (panel-carrito) displaying the user's selected products. The cart includes a list of products, a total cost, and buttons to go back to the store or to the contact details.
-Please note that this HTML code appears to be a fragment of a larger web page and is intended for product display, user input, and potentially online shopping. The actual functionality and interactivity would depend on the JavaScript code and server-side processing that complements this HTML.
 
 {% highlight html %}
 <!-- GRUPO Productos -->
