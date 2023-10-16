@@ -136,11 +136,23 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="http://petitaideas.com/test/">See it in acctionr</a><br>
+        <a href="http://petitaideas.com/test/">See it in acction</a><br>
         <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
 </div>
 
+<div class="fenster">
 
+    <p class="fenster-letters"><h2>Research & Data Science</h2>
+    <hr><br> Data science fundamentals for Socioeconomical studies</p>
+
+    <div class="console">
+        <ul>16.10.23 Introduction</li>
+        </ul>
+    </div>
+        <br>
+        <a href="">Go to Data</a><br>
+        <a href="">Codes</a>
+</div>
 
 
 [Chek how did I create this page](Jekyll/)
