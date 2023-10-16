@@ -87,3 +87,6 @@ Literatur:
 
 What is Moore’s Law? (2023). https://ourworldindata.org/moores-law#moore-s-law-has-held-true-for-more-than-half-a-century.
 'The Four V's of Big Data - OpenSistemas' (2023) OpenSistemas, 3 February. https://opensistemas.com/en/the-four-vs-of-big-data/.
+
+<hr>
+By Angelus
