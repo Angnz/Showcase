@@ -57,6 +57,7 @@ title: Data Science in Economics
       }
 
 </style>
+<hr>
 ## Introduction to Data Science for Economics 
 
 # Why Opt for "Data Science"?
