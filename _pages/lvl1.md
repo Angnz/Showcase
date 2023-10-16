@@ -68,15 +68,17 @@ POSTS try 1
     </h2>
 {% endfor %}
 
+<hr>
+
 ## Categories:
 
 1
 
- {% for cat in site.categories %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">{{ post.categories.lvl1 }}</a>
-    </h2>
+ {% for post in site.posts %}
+
+  {{ post.title }} | {{ post.categories }}
+
 {% endfor %}
 
+<hr>
 2
