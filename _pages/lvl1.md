@@ -85,3 +85,5 @@ POSTS try 1
 </ul>
 
 {% endfor %}
+
+{{ site.categories.lvl2 }}
