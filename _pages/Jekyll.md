@@ -52,6 +52,8 @@ title: Jekyll webPage
 
     pre,
     code {
+     background-color: #00FF00;
+    color: #132043;
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
