@@ -1,7 +1,7 @@
 ---
 permalink: /ds-economics/
 layout: page
-title: Dara Science in Economics
+title: Data Science in Economics
 ---
 
 # Why Opt for "Data Science"?
