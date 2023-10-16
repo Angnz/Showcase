@@ -75,10 +75,12 @@ POSTS try 1
 <br>
 1
 <br>
- {% for post in site.posts %}
+{% for post in site.posts %}
 
-  {{ post.title }} | {{ post.categories }}
-  {{ site.categories }}
+<ul>
+<li>{{ post.title }}</li>
+<li>{{ site.categories }}</li>
+</ul>
 
 {% endfor %}
 
