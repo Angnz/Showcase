@@ -72,7 +72,7 @@ POSTS try 1
 
 1
 
- {% for post in site.categories %}
+ {% for cat in site.categories %}
   <article>
     <h2>
       <a href="{{ post.url }}">{{ post.categories.lvl1 }}</a>
