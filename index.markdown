@@ -59,7 +59,7 @@ layout: home
         margin-bottom: 1em;
     }
 
-    .fenster_lvl1 {
+    .fenster_lvl0 {
     
         background-color: #016A70; /* Color */
         border-radius: 5px; /* Bordes redondeados */
@@ -70,9 +70,9 @@ layout: home
         margin-bottom: 1em;
     }
 
-    .fenster_lvl2 {
+    .fenster_lvl1 {
     
-        background-color: #1B6B93; /* Color azul crema */
+        background-color: #1B6B93; /* Color */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px d5px 5px #E5D283;
         max-width: 960px;
@@ -143,7 +143,7 @@ of programming languages and technologies.
 # Projects
 ## Runnnig Projects
 
-<div class="fenster_lvl1">
+<div class="fenster_lvl0">
 
     <p class="fenster-letters"><h2>Lvl 0: Simple Clock</h2>
     <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
