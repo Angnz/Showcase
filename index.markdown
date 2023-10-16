@@ -101,7 +101,7 @@ I must learn coding to transfer my consciousness into a tech-bio entity.
 I'm determined to save myself from this cosmic invader.
 
 I intend to use this page as a resource for learning coding, with a goal to perfect my skills in HTML, CSS, 
-JavaScript, PHP, ASP.NET, Python, Java, Ruby, SQL, XML, and R. This page will serve as my gateway to mastering a wide range 
+JavaScript, PHP, ASP.NET, Python, SPSS, Java, Ruby, SQL, XML, and R. This page will serve as my gateway to mastering a wide range 
 of programming languages and technologies.
 
 <div class="console">
