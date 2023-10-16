@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Jekyll/
-title: Jekyll webPage
+title: ":Jekyll webPage"
 ---
 <style>
     body {
@@ -52,12 +52,13 @@ title: Jekyll webPage
 
     pre,
     code {
-     background-color: #00FF00;
-    color: #132043;
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+      background-color: #333;
+      color: #00ff00;
+      padding: 10px;
+      font-family: 'Courier New', monospace;
+      border: 1px solid #00ff00;
+      line-height: 1;
+      margin: 2em;
       }
 
     </style>
