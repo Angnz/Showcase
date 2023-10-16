@@ -55,7 +55,6 @@ title: ":Jekyll webPage"
       background-color: #333;
       color: #00ff00;
       font-family: 'Courier New', monospace;
-      border: 1px solid #00ff00;
       line-height: 1;
       margin: 2em;
       }
