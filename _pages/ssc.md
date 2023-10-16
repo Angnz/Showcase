@@ -653,7 +653,7 @@ btnAgregar.addEventListener('click', () => {
 });
 
 
-{% highlight javascript %}
+{% endhighlight %}
 
 
 ## CSS
