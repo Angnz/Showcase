@@ -51,7 +51,7 @@ title: ":Jekyll webPage"
     }
 
      pre, code {
-      background-color: #333;
+      background-color: transparent;
       color: black;
       font-family: 'Courier New', monospace;
       }
