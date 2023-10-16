@@ -49,6 +49,15 @@ title: Jekyll webPage
         line-height: 1.5;
         overflow-x: auto;
     }
+
+    pre,
+code {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+}
+
     </style>
 
 # How I create this Page in Jekyll
