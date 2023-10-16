@@ -86,4 +86,4 @@ POSTS try 1
 
 {% endfor %}
 
-{{ site.categories.lvl2 }}
+{{ post.categories.lvl2 }}
