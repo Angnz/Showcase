@@ -48,9 +48,9 @@ layout: home
         overflow-x: auto;
     }
     
-    .fenster .lvl1 {
+    .fenster_lvl1 {
     
-        background-color: #4F709C; /* Color azul crema */
+        background-color: #EE9322; /* Color azul crema */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
@@ -58,6 +58,18 @@ layout: home
         margin-top: 1em;
         margin-bottom: 1em;
     }
+
+    .fenster_lvl2 {
+    
+        background-color: #219C90; /* Color azul crema */
+        border-radius: 5px; /* Bordes redondeados */
+        box-shadow: 5px 5px 5px #E5D283;
+        max-width: 960px;
+        padding: 20px;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    
     
     fenster-letters{
         color:#333;
@@ -120,7 +132,23 @@ of programming languages and technologies.
 # Projects
 ## Runnnig Projects
 
-<div class="fenster lvl1">
+<div class="fenster_lvl1">
+
+    <p class="fenster-letters"><h2>Simple Clock</h2>
+    <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
+
+    <div class="console">
+        <ul>
+        <li>Display time</li>
+        <li>JavaScript for Formating time parameters am/pm </li>
+        </ul>
+    </div>
+        <br>
+        <a href="http://petitaideas.com/test/">See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
+</div>
+
+<div class="fenster_lvl2">
 
     <p class="fenster-letters"><h2>Simple Product showcase</h2>
     <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
