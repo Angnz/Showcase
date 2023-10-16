@@ -155,8 +155,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="#">See it in acction</a><br>
-        <a href="#">Code</a>
+        <a href="#">➡️See it in acction</a><br>
+        <a href="#">➡️Code</a>
 </div>
 
 <div class="fenster_lvl1">
@@ -176,8 +176,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="http://petitaideas.com/test/">See it in acction</a><br>
-        <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
+        <a href="http://petitaideas.com/test/">➡️See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/ssc/">➡️Code</a>
 </div>
 
 # Research and Data
@@ -202,7 +202,7 @@ of programming languages and technologies.
 <div class="fenster">
 
     <p class="fenster-letters"><h2>Programming & Analytics</h2>
-    <hr><br> Data science fundamentals for Socioeconomical studies</p>
+    <hr><br> Data science fundamentals for Economics and Social Sience</p>
 
     <div class="console">
         <ul>
@@ -214,8 +214,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="">Go to Data</a><br>
-        <a href="">Codes</a>
+        <a href="https://angnz.github.io/SimpleOS/ds-economics/">➡️Go to Data</a><br>
+        <a href="">➡️Posts</a>
 </div>
 
 
