@@ -50,11 +50,8 @@ title: ":Jekyll webPage"
         overflow-x: auto;
     }
 
-    pre, code{
-      border: 0px;
-      color: transparent;
-    }
-    .highlighter-rouge, .highlight, div.highlight {
+   
+   pre, code {
       background-color: #333;
       color: #00ff00;
       padding: 10px;
