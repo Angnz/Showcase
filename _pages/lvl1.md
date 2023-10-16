@@ -61,18 +61,11 @@ I want to show here my Posts iof coding lvl 1
 
 POSTS try 1
 <hr>
-
  {% for post in site.posts %}
   <article>
     <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        {{ post.categories.lvl1 }}
-      </a>
+      <a href="{{ post.url }}">{{ post.title }} {{ post.categories }}</a>
     </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
-  </article>
 {% endfor %}
 
 POSTS try 2
