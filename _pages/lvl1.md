@@ -77,7 +77,7 @@ POSTS try 1
 POSTS try 2
 <hr>
 <p></p>
-This is my review of {{page.lvl1}}.
+This is my review of {{post.lvl1}}.
 
 
 POSTS try 3
