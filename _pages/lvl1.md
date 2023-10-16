@@ -57,7 +57,7 @@ title: "LVL1: MONKEY"
       }
 </style>
 
-I want to show here my Posts iof coding lvl 1
+
 
 POSTS try 1
 <hr>
