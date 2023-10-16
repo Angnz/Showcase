@@ -75,15 +75,14 @@ Veracity: Veracity relates to the quality of the data. Big data sources can vary
 
 The primary challenge of the "big data" revolution lies in effectively collecting, storing, analyzing, and deriving value from these massive, diverse, and fast-moving data volumes. Companies like IBM have dedicated efforts to provide solutions that harness big data through technologies like Hadoop, advanced analytics tools, cloud computing, and more. However, the successful utilization of big data goes beyond technology alone.
 
-Organizations need the right skills, infrastructure, and frameworks to leverage big data effectively. Issues surrounding privacy, security, and data governance also come to the forefront. In summary, big data presents immense opportunities for gaining insights and making informed decisions, but it also poses multiple technological and organizational challenges that need to be addressed to fully realize its potential(opensistemas.com, 2023)
-.
+Organizations need the right skills, infrastructure, and frameworks to leverage big data effectively. Issues surrounding privacy, security, and data governance also come to the forefront. In summary, big data presents immense opportunities for gaining insights and making informed decisions, but it also poses multiple technological and organizational challenges that need to be addressed to fully realize its potential(opensistemas.com, 2023).
 
 # Moore’s Law has held true for more than half a century
 Back in 1965, Gordon Moore predicted that the continuous growth in the number of transistors on integrated circuits would extend for at least another decade. Fast forward to the chart showing the growth in transistor density from 1970 onwards, and you'll notice a striking resemblance to Moore's original projection. It's important to understand that the transistor count is displayed on a logarithmic scale, and the consistent linear trend over time indicates a steady growth rate. This essentially means that the increase in transistor count has been exponential. If you explore our interactive chart, allowing you to toggle between linear and logarithmic scales, you'll witness the same trend. Transistor counts have roughly doubled every two years, in line with Moore's foresight. What's truly remarkable is that this exponential growth has persisted for more than 50 years(ourworldindata.org, 2023).
 
 
 
-
+<hr>
 Literatur:
 
 What is Moore’s Law? (2023). https://ourworldindata.org/moores-law#moore-s-law-has-held-true-for-more-than-half-a-century.
