@@ -93,3 +93,5 @@ POSTS try 3
 POSTS try 4
 
 {{post.categotires}}
+
+{{site.categotires}}
