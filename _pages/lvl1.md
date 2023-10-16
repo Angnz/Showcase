@@ -88,14 +88,3 @@ POSTS try 1
 
 <hr>
 2
-
-{% for post in site.posts %}
-
-<ul>
-<li>{{ post.lvl1.title }}</li>
-<li>{{ site.categories.lvl1 }}</li>
-<li>{{ posts.categories.lvl1 }}</li>
-<li>{{ post.categories.lvl1 }}</li>
-</ul>
-
-{% endfor %}
