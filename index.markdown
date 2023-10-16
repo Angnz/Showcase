@@ -117,7 +117,7 @@ layout: home
     
     </style>
     
-# Greetings, 
+# 🖖🏻 Greetings,
 
 I'm Angelus, an intellectually challenged chimp with an alien parasite inside me. To survive, 
 I must learn coding to transfer my consciousness into a tech-bio entity.
@@ -132,10 +132,10 @@ of programming languages and technologies.
     <br>
     <br>
     <ul>
-        <li>lvl 1: Monkey</li>
-        <li>lvl 2: Bob</li>
-        <li>lvl 3: Prometheus</li>
-        <li>lvl 4: Spock</li>
+        <li>lvl 1:🐒 Monkey</li>
+        <li>lvl 2:🦴 Bob</li>
+        <li>lvl 3:👽 Prometheus</li>
+        <li>lvl 4:🧠 Spock</li>
     </ul>
     </div>
 
@@ -155,8 +155,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="#">➡️See it in acction</a><br>
-        <a href="#">➡️Code</a>
+        <a href="#">➡️ See it in acction</a><br>
+        <a href="#">➡️ Code</a>
 </div>
 
 <div class="fenster_lvl1">
@@ -176,8 +176,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="http://petitaideas.com/test/">➡️See it in acction</a><br>
-        <a href="https://angnz.github.io/SimpleOS/ssc/">➡️Code</a>
+        <a href="http://petitaideas.com/test/">➡️ See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/ssc/">➡️ Code</a>
 </div>
 
 # Research and Data
@@ -214,8 +214,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="https://angnz.github.io/SimpleOS/ds-economics/">➡️Go to Data</a><br>
-        <a href="">➡️Posts</a>
+        <a href="https://angnz.github.io/SimpleOS/ds-economics/">➡️ Go to Data</a><br>
+        <a href="">➡️ Posts</a>
 </div>
 
 
