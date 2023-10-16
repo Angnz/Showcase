@@ -57,7 +57,6 @@ title: "LVL1: MONKEY"
       }
 </style>
 
-# lvl1
 I want to show here my Posts iof coding lvl 1
 
 POSTS try 1
@@ -81,5 +80,5 @@ POSTS try 2
 {%- assign posts = site.posts | where_exp: 'post', 'post.film' -%}
 
 {%- for post in posts -%}
-    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.film}}</a><br>
+    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.lvl1}}</a><br>
 {%- endfor -%}
