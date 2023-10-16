@@ -50,10 +50,9 @@ title: ":Jekyll webPage"
         overflow-x: auto;
     }
 
-   
-   pre, code, div.highlight{
+     pre, code {
       background-color: #333;
-      color: yellow;
+      color: black;
       font-family: 'Courier New', monospace;
       }
 
