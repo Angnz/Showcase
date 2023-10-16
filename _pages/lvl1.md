@@ -58,47 +58,10 @@ title: "LVL1: MONKEY"
 </style>
 
 
-
-POSTS try 1
-<hr>
- {% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">{{ post.title }} {{ post.categories }}</a>
-    </h2>
-{% endfor %}
-
-<hr>
-
-## Categories:
-
-<br>
-1
-<br>
-{% for categories in site.posts %}
-
-<ul>
-<li>{{ post.title }}</li>
-<li>{{ site.categories }}</li>
-<li>{{ posts.categories }}</li>
-<li>{{ post.categories }}</li>
-</ul>
-
-{% endfor %}
-
-
-{% for cat in site.categories %}
-
-{{ cat[0] }}
-
-{% endfor %}
-
-
 {% for post in site.posts %}
   {% if post.categories contains 'lvl1' %}
     <ul>
-      <li>{{ post.title }}</li>
-      <li>{{ post.categories }}</li>
+      <li><a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
