@@ -60,4 +60,26 @@ title: ":LVL1: MONKEY"
 # lvl1
 I want to show here my Posts iof coding lvl 1
 
-POSTS
+POSTS try 1
+
+ {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
+
+POSTS try 2
+
+<p></p>
+
+{%- assign posts = site.posts | where_exp: 'post', 'post.film' -%}
+
+{%- for post in posts -%}
+    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.film}}</a><br>
+{%- endfor -%}

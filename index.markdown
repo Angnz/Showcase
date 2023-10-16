@@ -155,7 +155,7 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="#">➡️ See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/lvl1/">➡️ See it in acction</a><br>
         <a href="#">➡️ Code</a>
 </div>
 
@@ -215,7 +215,6 @@ of programming languages and technologies.
     </div>
         <br>
         <a href="https://angnz.github.io/SimpleOS/ds-economics/">➡️ Go to Data</a><br>
-        <a href="">➡️ Posts</a>
 </div>
 
 
