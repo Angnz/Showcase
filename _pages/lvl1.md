@@ -88,3 +88,7 @@ POSTS try 3
 {%- for post in posts -%}
     Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.lvl1}}</a><br>
 {%- endfor -%}
+
+POSTS try 4
+
+{{post}}
