@@ -48,7 +48,7 @@ layout: home
         overflow-x: auto;
     }
     
-    .fenster {
+    .fenster .lvl1 {
     
         background-color: #4F709C; /* Color azul crema */
         border-radius: 5px; /* Bordes redondeados */
@@ -116,9 +116,11 @@ of programming languages and technologies.
     </ul>
     </div>
 
-## Projects
 
-<div class="fenster">
+# Projects
+## Runnnig Projects
+
+<div class="fenster lvl1">
 
     <p class="fenster-letters"><h2>Simple Product showcase</h2>
     <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
