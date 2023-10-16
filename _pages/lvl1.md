@@ -67,3 +67,16 @@ POSTS try 1
       <a href="{{ post.url }}">{{ post.title }} {{ post.categories }}</a>
     </h2>
 {% endfor %}
+
+## Categories:
+
+1
+
+ {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">{{ post.categories.lvl1 }}</a>
+    </h2>
+{% endfor %}
+
+2
