@@ -20,19 +20,18 @@ title: Jekyll webPage
         border-bottom: 0px;
         
     }
-    </script>
-    
-# How I create this Page in Jekyll
+    </style>
 
+# How I create this Page in Jekyll
 
 ## There are 2 ways to add code to HTML without JS:
 
 - `<pre>`
 - `<code>`
+
 ## In Kekyll
 
 ```
-
 your code
 
 ```
