@@ -221,3 +221,10 @@ of programming languages and technologies.
 
 
 [Chek how did I create this page](Jekyll/)
+
+{% for post in site.posts limit:0 %}
+   <article>
+      {% include article.html %}
+    </article>
+{% end %}
+
