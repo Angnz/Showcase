@@ -80,6 +80,8 @@ POSTS try 1
 <ul>
 <li>{{ post.title }}</li>
 <li>{{ site.categories }}</li>
+<li>{{ posts.categories }}</li>
+<li>{{ post.categories }}</li>
 </ul>
 
 {% endfor %}
