@@ -53,7 +53,7 @@ title: ":Jekyll webPage"
    
    pre, code , div.highlight{
       background-color: #333;
-      color: #F99417;
+      color: yellow;
       font-family: 'Courier New', monospace;
       }
 
