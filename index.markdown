@@ -48,9 +48,20 @@ layout: home
         overflow-x: auto;
     }
     
+    .fenster{
+    
+        background-color: #068DA9; /* Color azul crema */
+        border-radius: 5px; /* Bordes redondeados */
+        box-shadow: 5px 5px 5px #E5D283;
+        max-width: 960px;
+        padding: 20px;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
     .fenster_lvl1 {
     
-        background-color: #EE9322; /* Color azul crema */
+        background-color: #AAC8A7; /* Color */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
@@ -61,7 +72,7 @@ layout: home
 
     .fenster_lvl2 {
     
-        background-color: #219C90; /* Color azul crema */
+        background-color: #96B6C5; /* Color azul crema */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
