@@ -60,6 +60,7 @@ title: "LVL1: MONKEY"
 I want to show here my Posts iof coding lvl 1
 
 POSTS try 1
+<hr>
 
  {% for post in site.posts %}
   <article>
@@ -74,9 +75,13 @@ POSTS try 1
 {% endfor %}
 
 POSTS try 2
-
+<hr>
 <p></p>
 This is my review of {{page.lvl1}}.
+
+
+POSTS try 3
+<hr>
 
 {%- assign posts = site.posts | where_exp: 'post', 'post.film' -%}
 
