@@ -61,7 +61,7 @@ layout: home
 
     .fenster_lvl1 {
     
-        background-color: #AAC8A7; /* Color */
+        background-color: #016A70; /* Color */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
@@ -72,7 +72,7 @@ layout: home
 
     .fenster_lvl2 {
     
-        background-color: #96B6C5; /* Color azul crema */
+        background-color: #1B6B93; /* Color azul crema */
         border-radius: 5px; /* Bordes redondeados */
         box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
