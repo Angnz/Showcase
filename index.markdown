@@ -74,7 +74,7 @@ layout: home
     
         background-color: #1B6B93; /* Color */
         border-radius: 5px; /* Bordes redondeados */
-        box-shadow: 5px d5px 5px #E5D283;
+        box-shadow: 5px 5px 5px #E5D283;
         max-width: 960px;
         padding: 20px;
         margin-top: 1em;
