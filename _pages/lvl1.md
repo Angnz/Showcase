@@ -76,6 +76,7 @@ POSTS try 1
 POSTS try 2
 
 <p></p>
+This is my review of {{page.film}}.
 
 {%- assign posts = site.posts | where_exp: 'post', 'post.film' -%}
 
