@@ -1,7 +1,7 @@
 ---
 permalink: /lvl1/
 layout: page
-title: ":LVL1: MONKEY"
+title: "LVL1: MONKEY"
 ---
 <style>
     body {
