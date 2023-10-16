@@ -93,3 +93,14 @@ POSTS try 1
 
 {% endfor %}
 
+
+{% for post in site.posts %}
+  {% if post.categories contains 'lvl1' %}
+    <ul>
+      <li>{{ post.title }}</li>
+      <li>{{ post.categories }}</li>
+    </ul>
+  {% endif %}
+{% endfor %}
+
+
