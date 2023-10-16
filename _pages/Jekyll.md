@@ -60,8 +60,21 @@ title: ":Jekyll webPage"
 
 ## How I create this Page in Jekyll
 There are 2 ways to add code to HTML without JS:
-- `<pre>`
-- `<code>`
+
+```
+<pre>
+```
+```
+<code>
+```
+
+Another example:
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
 ## In Kekyll
 ```
