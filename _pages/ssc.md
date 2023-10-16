@@ -1184,6 +1184,6 @@ FUTURO ESTILO DE BOTONES
 
 
 
-[Download the files hier](https://github.com/Angnz/PI_OS.git) 
+[Download the files hier (You must be logged in)](https://github.com/Angnz/PI_OS.git) 
 
 https://github.com/Angnz/PI_OS.git)
