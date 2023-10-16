@@ -144,8 +144,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="http://petitaideas.com/test/">See it in acction</a><br>
-        <a href="https://angnz.github.io/SimpleOS/ssc/">Code</a>
+        <a href="#">See it in acction</a><br>
+        <a href="#">Code</a>
 </div>
 
 <div class="fenster_lvl2">
