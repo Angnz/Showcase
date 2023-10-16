@@ -113,6 +113,7 @@ $ git commit -m "I uploaded the first HTML page as Home"
 ```
 <div class="messagebox"> Just learned how to upload stuff from VSCode to GitHub using Git commands.</div>
 
+
 ## How to rename files using Git from VSCode
 
 - Rename a file:

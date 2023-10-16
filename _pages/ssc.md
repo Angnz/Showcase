@@ -263,7 +263,7 @@ Explain Skeleton
 ## PHP
 Explanation PHP
 
-```
+{% highlight php %}
 /*My Code for online shop - To add in functions.php in wordpress*/
 
 
@@ -286,7 +286,7 @@ add_action('wp_enqueue_scripts','function_css');
 
 
 /*My Code for online shop END*/
-```
+{% endhighlight %}
 
 
 
