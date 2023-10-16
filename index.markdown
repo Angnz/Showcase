@@ -145,7 +145,7 @@ of programming languages and technologies.
 
 <div class="fenster_lvl1">
 
-    <p class="fenster-letters"><h2>Simple Clock</h2>
+    <p class="fenster-letters"><h2>Lvl 0: Simple Clock</h2>
     <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
 
     <div class="console">
@@ -161,7 +161,7 @@ of programming languages and technologies.
 
 <div class="fenster_lvl2">
 
-    <p class="fenster-letters"><h2>Simple Product showcase</h2>
+    <p class="fenster-letters"><h2>Lvl 1: Simple Product showcase</h2>
     <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
 
     <div class="console">
