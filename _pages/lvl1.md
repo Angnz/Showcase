@@ -61,18 +61,18 @@ LVL1:
 <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'lvl1' %}
-        <li><a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
 
 LVL2:
 
-<ul>
-    {% for post in site.posts %}
-      {% if post.categories contains 'lvl2' %}
-        <li><a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains 'lvl1' %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
