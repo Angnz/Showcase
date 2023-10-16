@@ -159,7 +159,7 @@ of programming languages and technologies.
         <a href="#">Code</a>
 </div>
 
-<div class="fenster_lvl2">
+<div class="fenster_lvl1">
 
     <p class="fenster-letters"><h2>Lvl 1: Simple Product showcase</h2>
     <hr><br> A simple Product showcase in html, JS, and CSS.<br>It contains:</p>
