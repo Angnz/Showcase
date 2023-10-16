@@ -66,8 +66,7 @@ In this minimalist WordPress showcase, products are displayed, and users can int
 ## HTML
 
 Explain Skeleton
-```
-
+{% highlight html %}
 <!-- GRUPO Productos -->
 
 <div id="seccion1_id" class="seccion1">
@@ -258,7 +257,8 @@ Explain Skeleton
         </div>
     </div>
 </div>
-```
+{% endhighlight %}
+
 
 ## PHP
 Explanation PHP
