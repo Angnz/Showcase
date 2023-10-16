@@ -32,7 +32,13 @@ layout: home
         color: #F99417;
         line-height: 1.5;
     }
-    
+
+      .nav{
+
+        display:none;
+    }
+
+
     a {
         color: #FDF0F0;
     }
