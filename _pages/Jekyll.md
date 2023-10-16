@@ -20,6 +20,35 @@ title: Jekyll webPage
         border-bottom: 0px;
         
     }
+    
+    .site-title, .site-title:visited {
+        color: #F99417;
+    }
+    
+    .site-title:hover {
+        text-decoration: none;
+    }
+    
+    .site-nav .page-link{
+        font-family: 'Courier New', Courier, monospace;
+        color: #F99417;
+        line-height: 1.5;
+    }
+    
+    a {
+        color: #FDF0F0;
+    }
+    
+    a:visited {
+        color: #00FF00;
+    }
+    
+    .page-content{
+        font-family: 'Courier New', Courier, monospace;
+        color: #FDF0F0;
+        line-height: 1.5;
+        overflow-x: auto;
+    }
     </style>
 
 # How I create this Page in Jekyll
