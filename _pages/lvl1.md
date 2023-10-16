@@ -75,11 +75,11 @@ POSTS try 1
 <br>
 1
 <br>
-{% for post in site.posts %}
+{% for categories in site.posts %}
 
 <ul>
 <li>{{ post.title }}</li>
-<li>{{ site.categories }}</li>
+<li>{{ site.categories.lvl1 }}</li>
 <li>{{ posts.categories }}</li>
 <li>{{ post.categories }}</li>
 </ul>
