@@ -88,3 +88,10 @@ POSTS try 1
 
 <hr>
 2
+{% for post in site.posts %}
+
+<ul>
+<li>{{ site.categories.lvl1 }}</li>
+</ul>
+
+{% endfor %}
