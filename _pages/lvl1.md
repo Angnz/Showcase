@@ -86,4 +86,10 @@ POSTS try 1
 
 {% endfor %}
 
-{{ post.categories.lvl2 }}
+
+{% for cat in site.categories %}
+
+{{ cat[0] }}
+
+{% endfor %}
+
