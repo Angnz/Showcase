@@ -32,8 +32,8 @@ plugins:
    - jekyll-feed
 
 include: 
-  # - _pages
-  # - _posts
+  - _pages
+  - _posts
   # include: [_layout]
   # include: [_data]
 
