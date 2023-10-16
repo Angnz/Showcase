@@ -3,7 +3,25 @@ layout: page
 permalink: /Jekyll/
 title: Jekyll webPage
 ---
-
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #1F4172;
+        margin: 2em;
+        padding: 1em;
+    }
+    
+    .site-header, .footer-heading{ /*site-header is the Webpage Banner and  text*/
+        Color: #132043;
+        font-family: Arial, sans-serif;
+        background-color: #363062;
+        color:#F99417;
+        border-top:0px;
+        border-bottom: 0px;
+        
+    }
+    </script>
+    
 # How I create this Page in Jekyll
 
 
