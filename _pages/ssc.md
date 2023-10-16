@@ -283,7 +283,6 @@ When clicked, this cart opens the panel (panel-carrito) displaying the user's se
 Code snippet for adding custom CSS and JavaScript to your WordPress site
 - This code defines a function named function_css.
 It uses wp_enqueue_style to add a custom CSS file (yourcss.css) to the WordPress site. The path to the CSS file is specified as /wp-includes/css/custom-css/yourcss.css.
-The custom CSS will be enqueued on all pages where this action is triggered (wp_enqueue_scripts). However, there is a minor issue in the function name. You should use 'function_css' as the action name, not 'petitaideas_os_css'.
 
 - This code defines another function named function_css, which overwrites the previous function.
 It checks if the current page is the page with the slug yourpageid using is_page('yourpageid').
