@@ -67,24 +67,3 @@ POSTS try 1
       <a href="{{ post.url }}">{{ post.title }} {{ post.categories }}</a>
     </h2>
 {% endfor %}
-
-POSTS try 2
-<hr>
-<p></p>
-This is my review of {{post.lvl1}}.
-
-
-POSTS try 3
-<hr>
-
-{%- assign posts = site.posts | where_exp: 'post', 'post.film' -%}
-
-{%- for post in posts -%}
-    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.lvl1}}</a><br>
-{%- endfor -%}
-
-POSTS try 4
-
-{{post.categotires}}
-
-{{site.categotires}}
