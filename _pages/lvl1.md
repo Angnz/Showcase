@@ -92,4 +92,4 @@ POSTS try 3
 
 POSTS try 4
 
-{{post}}
+{{post.categotires}}
