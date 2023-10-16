@@ -66,6 +66,7 @@ In this minimalist WordPress showcase, products are displayed, and users can int
 ## HTML
 
 Explain Skeleton
+
 {% highlight html %}
 <!-- GRUPO Productos -->
 
@@ -293,9 +294,9 @@ add_action('wp_enqueue_scripts','function_css');
 ## JS
 
 Explain JS
-```
+{% highlight javascript %}
 //----------------------------------------------
-// 1.-Productos y CAtegorias
+// 1.-Productos y Categorias
 //----------------------------------------------
 
 
@@ -1134,7 +1135,7 @@ FUTURO ESTILO DE BOTONES
   }
 }
 
-```
+{% endhighlight %}
 
 
 
