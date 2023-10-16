@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SimpleOS
-email: jaaaa@example.com
+# email: jaaaa@example.com
 description: "Explore my foray into the world of programming and data analysis, where I'm delving into various areas. Follow my path as I share my progress, experiences, and exciting projects to boost my skills. As a programming newcomer, I'm excited about web development and data analysis, focusing on creating interactive applications, improving user experiences, and handling data effectively. Join me in my journey as I work on projects like my personal website to showcase my skills, a web app for specific tasks, and a project for data management and analysis."
-baseurl: "SimpleOS" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mytwitter
 github_username: Angnz
@@ -31,8 +31,9 @@ theme: minima
 plugins:
    - jekyll-feed
 
-include: [_pages]
-include: [_posts]
+include: 
+  - _pages
+  - _posts
   # include: [_layout]
   # include: [_data]
 
