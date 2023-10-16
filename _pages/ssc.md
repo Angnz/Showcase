@@ -65,7 +65,26 @@ In this minimalist WordPress showcase, products are displayed, and users can int
 
 ## HTML
 
-Explain Skeleton
+Section 1 (Porcelana Fría, Foamy, Novios):
+
+- Three product categories are defined within the seccion1_id div: "Porcelana Fría," "Foamy," and "Novios."
+Each category includes a heading (<h3 class="categoria_productos">) and a description paragraph.
+Products related to each category will be displayed within the corresponding categoria1, categoria2, and categoria3 divs.
+Section 2 (Servicios and User Contact Information):
+
+- A category "Servicios" is defined with its description.
+This section also collects user contact information, including name, last name, email, phone number, approximate delivery date, and delivery address information (e.g., street, number, city, etc.).
+Section 3 (Checkout and User Preferences):
+
+- This section is dedicated to checkout and user preferences.
+Users can opt to receive newsletters and provide additional comments or messages.
+There's an acceptance checkbox where users can agree to privacy policies.
+The user can return to the contact details section or submit the form.
+Shopping Cart and Floating Cart:
+
+- The shopping cart is represented by a floating cart icon (carrito-float) at the bottom of the page.
+When clicked, this cart opens the panel (panel-carrito) displaying the user's selected products. The cart includes a list of products, a total cost, and buttons to go back to the store or to the contact details.
+Please note that this HTML code appears to be a fragment of a larger web page and is intended for product display, user input, and potentially online shopping. The actual functionality and interactivity would depend on the JavaScript code and server-side processing that complements this HTML.
 
 {% highlight html %}
 <!-- GRUPO Productos -->
@@ -262,7 +281,15 @@ Explain Skeleton
 
 
 ## PHP
-Explanation PHP
+Code snippet for adding custom CSS and JavaScript to your WordPress site
+- This code defines a function named function_css.
+It uses wp_enqueue_style to add a custom CSS file (yourcss.css) to the WordPress site. The path to the CSS file is specified as /wp-includes/css/custom-css/yourcss.css.
+The custom CSS will be enqueued on all pages where this action is triggered (wp_enqueue_scripts). However, there is a minor issue in the function name. You should use 'function_css' as the action name, not 'petitaideas_os_css'.
+
+- This code defines another function named function_css, which overwrites the previous function.
+It checks if the current page is the page with the slug yourpageid using is_page('yourpageid').
+If the condition is met, it enqueues a custom JavaScript file (yourjs.js) using wp_register_script and wp_enqueue_script. This script depends on jQuery and is enqueued with a version number of '1'. The 'true' argument at the end means the script will be added to the footer.
+This JavaScript will only be added to the page with the slug yourpageid.
 
 {% highlight php %}
 /*My Code for online shop - To add in functions.php in wordpress*/
@@ -293,7 +320,20 @@ add_action('wp_enqueue_scripts','function_css');
 
 ## JS
 
-Explain JS
+- Products and Categories: The code defines a list of products with their names, prices, images, descriptions, and categories. These products are organized into different categories.
+
+- Adding Products to Categories: It iterates through the products and adds them to HTML elements based on their category. These HTML elements likely represent the product listings on a web page.
+
+- Adding Products to the Cart: When a user clicks the "Add to Cart" button for a product, a JavaScript function is called to add that product to the shopping cart. If the product is "Envio por Correo (Nacional)," it checks if this item has already been added to the cart and displays a message if it has.
+
+- Updating the Cart: There are functions for updating and displaying the shopping cart. The total price of items in the cart is calculated and displayed. It also keeps track of the number of items in the cart.
+
+- Formatting Numbers: The code uses a function to format numbers as currency with the appropriate separators.
+
+- Cart Panel: There is a panel that can be opened to view the contents of the shopping cart. The panel can be opened and closed by clicking the cart icon or the "Cerrar" button. It also handles the transition between different sections of the online store, including checkout.
+
+- Animations: There's an animation applied to the "Add to Cart" button to make it shake when a product is added.
+
 {% highlight javascript %}
 //----------------------------------------------
 // 1.-Productos y Categorias
@@ -613,13 +653,20 @@ btnAgregar.addEventListener('click', () => {
 });
 
 
-```
+{% highlight javascript %}
 
 
 ## CSS
 
-Explain CSS
-```
+- he CSS defines styles for buttons, links, and various parts of the user interface.
+
+- There are styles for the shopping cart panel that slides in and out when activated.
+
+- The @keyframes section defines animation sequences for elements, including the "rotate-hor-center" animation.
+
+- The CSS includes comments to help explain the purpose of certain styles.
+
+{% highlight css %}
 /* CSS para pantallas grandes */
 
 @media screen and (min-width: 640px) {
