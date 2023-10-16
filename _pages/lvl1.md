@@ -61,7 +61,7 @@ title: "LVL1: MONKEY"
 <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'lvl1' %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
