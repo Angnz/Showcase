@@ -161,8 +161,8 @@ of programming languages and technologies.
         </ul>
     </div>
         <br>
-        <a href="https://angnz.github.io/SimpleOS/lvl1/">➡️ See it in acction</a><br>
-        <a href="#">➡️ Code</a>
+        <a href="">➡️ See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/lvl1/">➡️ lvl1</a>
 </div>
 
 <div class="fenster_lvl2">
