@@ -154,8 +154,8 @@ I intend to use this page as a resource for learning coding, with a goal to perf
 
     <div class="console">
         <ul>
-        <li>Display time</li>
-        <li>JavaScript for Formating time parameters am/pm </li>
+        <li>call buttons with JS</li>
+        <li>JavaScript for Formating Color background </li>
         </ul>
     </div>
         <br>
