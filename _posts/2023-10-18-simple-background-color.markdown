@@ -5,7 +5,7 @@ date:   2023-10-18 21:42:47 +0200
 categories: lvl1
 ---
 
-# Topics for creating the Background color chnager
+# Topics for creating the Background color changer
 
 - JavaScript
 - HTML
