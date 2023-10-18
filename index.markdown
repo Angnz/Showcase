@@ -149,7 +149,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
 
 <div class="fenster_lvl1">
 
-    <p class="fenster-letters"><h2>Lvl 1: Simple Clock</h2>
+    <p class="fenster-letters"><h2>Lvl 1: Simple Background Color</h2>
     <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
 
     <div class="console">
@@ -159,7 +159,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         </ul>
     </div>
         <br>
-        <a href="">➡️ See it in acction</a><br>
+        <a href="https://angnz.github.io/SimpleOS/lvl1/2023/10/18/simple-background-color.html">➡️ Code</a><br>
         <a href="https://angnz.github.io/SimpleOS/lvl1/">➡️ lvl1</a>
 </div>
 
