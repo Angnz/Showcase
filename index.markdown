@@ -129,9 +129,7 @@ I'm Angelus, an intellectually challenged chimp with an alien parasite inside me
 I must learn coding to transfer my consciousness into a tech-bio entity.
 I'm determined to save myself from this cosmic invader.
 
-I intend to use this page as a resource for learning coding, with a goal to perfect my skills in HTML, CSS, 
-JavaScript, PHP, ASP.NET, Python, SPSS, Java, Ruby, SQL, XML, and R. This page will serve as my gateway to mastering a wide range 
-of programming languages and technologies.
+I intend to use this page as a resource for learning coding, with a goal to perfect my skills in HTML, CSS, JavaScript, PHP, Python, SPSS, Java, Ruby, SQL and R. This page will serve as my gateway to mastering a wide range of programming languages and technologies.
 
 <div class="console">
     Difficulty and logical challenge rating
