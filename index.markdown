@@ -205,6 +205,15 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         <li>16.10.23 Introduction</li>
         </ul>
     </div>
+    <div>
+    <ul>
+    {% for post in site.posts %}
+      {% if post.categories contains 'datasc' %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }} - {{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    </div>
         <br>
         <a href="https://angnz.github.io/SimpleOS/ds-economics/">Go to more Data</a><br>
 </div>
