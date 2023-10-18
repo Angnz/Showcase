@@ -171,6 +171,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         <br>
         <a href="https://angnz.github.io/SimpleOS/lvl1/2023/10/18/simple-background-color.html">➡️ Code</a><br>
         <a href="https://angnz.github.io/SimpleOS/lvl1/">➡️ lvl1</a>
+
 </div>
 
 <div class="fenster_lvl2">
