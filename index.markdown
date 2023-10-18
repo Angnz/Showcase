@@ -205,7 +205,8 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         <li>16.10.23 Introduction</li>
         </ul>
     </div>
-    <div>
+
+    <div class="console">
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'datasc' %}
