@@ -10,16 +10,16 @@ categories: lvl1
 - JavaScript
 - HTML
 - CSS
-- Manipulación del DOM (Document Object Model)
+- DOM Manipulation (Document Object Model)
 - Event Listeners
-- Lógica de Programación
-- Operaciones Matemáticas
-- Objetos en JavaScript
-- Funciones en JavaScript
-- Validación de Datos
-- Mantenimiento de Estado
-- Redondeo de Números
-- Depuración y Pruebas
+- Programming Logic
+- Math Operations
+- Objects in JavaScript
+- Functions in JavaScript
+- Data Validation
+- State Management
+- Rounding Numbers
+- Debugging and Testing
 
 # HTML
 
