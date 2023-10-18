@@ -153,7 +153,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
     <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
 
     <div class="console">
- <ul>
+    <ul>
         <li>JavaScript</li>
         <li>HTML</li>
         <li>CSS</li>
@@ -165,7 +165,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         <li>Functions in JavaScript</li>
         <li>and more...</li>
     </ul>
-        </ul>
+    
     </div>
         <br>
         <a href="https://angnz.github.io/SimpleOS/lvl1/2023/10/18/simple-background-color.html">➡️ Code</a><br>
@@ -179,13 +179,13 @@ I intend to use this page as a resource for learning coding, with a goal to perf
 
     <div class="console">
         <ul>
-        <li>Shop Cart</li>
-        <li>Alphabetical Order of Products</li>
-        <li>Add to Cart Button</li>
-        <li>Generate Product Segments</li>
-        <li>Sum and Subtract Prices</li>
-        <li>Personal Data Form</li>
-        <li>Send Quotation via Email</li>
+            <li>Shop Cart</li>
+            <li>Alphabetical Order of Products</li>
+            <li>Add to Cart Button</li>
+            <li>Generate Product Segments</li>
+            <li>Sum and Subtract Prices</li>
+            <li>Personal Data Form</li>
+            <li>Send Quotation via Email</li>
         </ul>
     </div>
         <br>
