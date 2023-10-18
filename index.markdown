@@ -40,11 +40,11 @@ layout: home
 
 
     a {
-        color: #FDF0F0;
+        color: #00FF00;
     }
     
     a:visited {
-        color: #00FF00;
+        color: #ffffff;
     }
     
     .page-content{

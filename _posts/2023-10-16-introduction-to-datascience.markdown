@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Data Science"
-date:   2023-10-16 21:42:47 +0200
+date:   2023-10-16
 categories: datasc
 ---
 
