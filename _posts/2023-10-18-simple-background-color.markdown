@@ -21,7 +21,14 @@ categories: lvl1
 - Redondeo de Números
 - Depuración y Pruebas
 
-HTML
+# HTML
+
+This HTML code creates a basic webpage with the following elements:
+
+- A document declaration specifying that this is an HTML5 document.
+- A head section with character encoding and viewport meta tags.
+- A title for the webpage.
+- The body of the webpage contains an <h1> heading that says "Backgrund color" and a <div> element with three buttons labeled "Red," "Yellow," and "Black." These buttons have unique IDs ("btn_red," "btn_yellow," and "btn_black").
 
 {% highlight html  %}
 
@@ -51,7 +58,7 @@ HTML
 
 {% endhighlight %}
 
-CSS
+# CSS
 
 {% highlight css  %}
 
@@ -93,7 +100,17 @@ CSS
 
 {% endhighlight %}
 
-JS
+# JS
+
+This JS code creates a basic webpage with the following elements:
+
+- It selects three HTML elements with the IDs "btn_red," "btn_yellow," and "btn_black" and assigns them to variables.
+- It gets a reference to the <body> element and assigns it to the body variable.
+- It adds event listeners to each of the three buttons.
+- When "btn_red" is clicked, it changes the background color of the body to red and styles the button with a red background and white text.
+- When "btn_yellow" is clicked, it changes the background color of the body to yellow and styles the button with a yellow background and white text.
+- When "btn_black" is clicked, it changes the background color of the body to black and styles the button with a black background and white text.
+- In summary, this code allows you to change the background color of the webpage by clicking on one of the three buttons, each corresponding to a different color (red, yellow, or black).
 
 {% highlight javascript  %}
 
