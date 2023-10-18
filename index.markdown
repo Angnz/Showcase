@@ -193,6 +193,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         <br>
         <a href="http://petitaideas.com/test/">➡️ See it in acction</a><br>
         <a href="https://angnz.github.io/SimpleOS/ssc/">➡️ Code</a>
+        <a href="https://angnz.github.io/SimpleOS/lvl2/">➡️ lvl2</a>
 </div>
 
 # Research and Data
