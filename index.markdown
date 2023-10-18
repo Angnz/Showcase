@@ -206,8 +206,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
         </ul>
     </div>
         <br>
-        <a href="">Go to Data</a><br>
-        <a href="">Codes</a>
+        <a href="https://angnz.github.io/SimpleOS/ds-economics/">Go to more Data</a><br>
 </div>
 
 # Programming
