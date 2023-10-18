@@ -5,6 +5,22 @@ date:   2023-10-18 21:42:47 +0200
 categories: lvl1
 ---
 
+# Temas para Crear una Calculadora
+
+- JavaScript
+- HTML
+- CSS
+- Manipulación del DOM (Document Object Model)
+- Event Listeners
+- Lógica de Programación
+- Operaciones Matemáticas
+- Objetos en JavaScript
+- Funciones en JavaScript
+- Validación de Datos
+- Mantenimiento de Estado
+- Redondeo de Números
+- Depuración y Pruebas
+
 HTML
 
 {% highlight html  %}
@@ -30,7 +46,6 @@ HTML
 
 
 </body>
-
 </html>
 
 

@@ -153,9 +153,18 @@ I intend to use this page as a resource for learning coding, with a goal to perf
     <hr><br> A simple Clock in html, JS, and CSS.<br>It contains:</p>
 
     <div class="console">
-        <ul>
-        <li>call buttons with JS</li>
-        <li>JavaScript for Formating Color background </li>
+ <ul>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>DOM Manipulation (Document Object Model)</li>
+        <li>Event Listeners</li>
+        <li>Programming Logic</li>
+        <li>Math Operations</li>
+        <li>Objects in JavaScript</li>
+        <li>Functions in JavaScript</li>
+        <li>and more...</li>
+    </ul>
         </ul>
     </div>
         <br>
