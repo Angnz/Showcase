@@ -204,12 +204,6 @@ I intend to use this page as a resource for learning coding, with a goal to perf
     <hr><br> Data science fundamentals for Socioeconomical studies</p>
 
     <div class="console">
-        <ul>
-        <li>16.10.23 Introduction</li>
-        </ul>
-    </div>
-
-    <div class="console">
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'datasc' %}

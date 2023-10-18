@@ -63,7 +63,7 @@ title: Data Science in Economics
 <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'datasc' %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }} - {{ post.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y, %b %d"  }} - {{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
