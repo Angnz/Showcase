@@ -221,7 +221,7 @@ I intend to use this page as a resource for learning coding, with a goal to perf
 <div class="fenster">
 
     <p class="fenster-letters"><h2>Programming & Analytics</h2>
-    <hr><br> Data science fundamentals for Economics and Social Sience</p>
+    <hr><br> Data science fundamentals for Economics and Social Sience and programming in R</p>
 
     <div class="console">
         <ul>
